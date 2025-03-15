@@ -19,7 +19,7 @@ In this graph, the nodes correspond to object bounding boxes with their category
 
 ---
 
-# MCoT Datasets and Benchmarks
+# MCoT Datasets and Benchmarks {#datasets}
 
 | **Datasets**   | **Year** | **Task**              | **Domain**            | **Modality** | **Format**    | **Samples** |
 |:--------------:|:--------:|:---------------------:|:---------------------:|:------------:|:-------------:|:-----------:|
