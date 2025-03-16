@@ -33,17 +33,30 @@ To fill this gap, we present **_the first systematic survey of MCoT reasoning_**
 <!-- AAAI-c71585 -->
 <!-- arXiv-b22222 -->
 <!-- ACL-191970 -->
+<!-- EMNLP-191970 -->
 <!-- TPAMI-ffa07a -->
+title - arxiv_html - paper_icon - github
 
 
 # MCoT Over Various Modalities
 ### MCoT Reasoning Over Image
 
+title - arxiv_html - paper_icon - github
 
 ### MCoT Reasoning Over Video
-
-
-title - arxiv_html - paper_icon - github
++ [**IntentQA: Context-aware Video Intent Reasoning**](https://openaccess.thecvf.com/content/ICCV2023/papers/Li_IntentQA_Context-aware_Video_Intent_Reasoning_ICCV_2023_paper.pdf) [![Paper](https://img.shields.io/badge/ICCV-00CED1)]() [![Star](https://img.shields.io/github/stars/JoseponLee/IntentQA.svg?style=social&label=Star)](https://github.com/JoseponLee/IntentQA)  
++ [**Hallucination Mitigation Prompts Long-term Video Understanding**](https://arxiv.org/abs/2406.11333) [![Paper](https://img.shields.io/badge/arXiv-b22222)]() [![Star](https://img.shields.io/github/stars/lntzm/CVPR24Track-LongVideo.svg?style=social&label=Star)](https://github.com/lntzm/CVPR24Track-LongVideo)  
++ [**AntGPT: Can Large Language Models Help Long-term Action Anticipation from Videos?**](https://arxiv.org/abs/2307.16368) [![Paper](https://img.shields.io/badge/ICLR-8A2BE2)]() [![Star](https://img.shields.io/github/stars/brown-palm/AntGPT.svg?style=social&label=Star)](https://github.com/brown-palm/AntGPT)  
++ [**DreamFactory: Pioneering Multi-Scene Long Video Generation with a Multi-Agent Framework**](https://arxiv.org/abs/2408.11788) [![Paper](https://img.shields.io/badge/arXiv-b22222)]()  
++ [**Video-of-Thought: Step-by-Step Video Reasoning from Perception to Cognition**](https://arxiv.org/abs/2501.03230) [![Paper](https://img.shields.io/badge/ICML-FF7F50)]() [![Star](https://img.shields.io/github/stars/scofield7419/Video-of-Thought.svg?style=social&label=Star)](https://github.com/scofield7419/Video-of-Thought)  
++ [**CaRDiff: Video Salient Object Ranking Chain of Thought Reasoning for Saliency Prediction with Diffusion**](https://arxiv.org/abs/2408.12009) [![Paper](https://img.shields.io/badge/arXiv-b22222)]()  
++ [**Following Clues, Approaching the Truth: Explainable Micro-Video Rumor Detection via Chain-of-Thought Reasoning**](https://openreview.net/pdf/6c509d93a31887cb5e3feaae2a453c392028dfdb.pdf) [![Paper](https://img.shields.io/badge/arXiv-b22222)]()  
++ [**Let's Think Frame by Frame with VIP: A Video Infilling and Prediction Dataset for Evaluating Video Chain-of-Thought**](https://arxiv.org/abs/2305.13903) [![Paper](https://img.shields.io/badge/EMNLP-191970)]() [![Star](https://img.shields.io/github/stars/vaishnaviHimakunthala/VIP.svg?style=social&label=Star)](https://github.com/vaishnaviHimakunthala/VIP)  
++ [**CoS: Chain-of-Shot Prompting for Long Video Understanding**](https://arxiv.org/abs/2502.06428) [![Paper](https://img.shields.io/badge/arXiv-b22222)]() [![Star](https://img.shields.io/github/stars/lwpyh/CoS_codes.svg?style=social&label=Star)](https://github.com/lwpyh/CoS_codes)  
++ [**TI-PREGO: Chain of Thought and In-Context Learning for Online Mistake Detection in PRocedural EGOcentric Videos**](https://arxiv.org/abs/2411.02570) [![Paper](https://img.shields.io/badge/arXiv-b22222)]()  
++ [**Interpretable Video based Stress Detection with Self-Refine Chain-of-thought Reasoning**](https://arxiv.org/abs/2410.09449) [![Paper](https://img.shields.io/badge/arXiv-b22222)]()  
++ [**Analyzing Key Factors Influencing Emotion Prediction Performance of VLLMs in Conversational Contexts**](https://aclanthology.org/2024.emnlp-main.331.pdf) [![Paper](https://img.shields.io/badge/EMNLP-191970)]()  
++ [**Large Vision-Language Models as Emotion Recognizers in Context Awareness**](https://arxiv.org/abs/2407.11300) [![Paper](https://img.shields.io/badge/ACML-808080)]() [![Star](https://img.shields.io/github/stars/ydk122024/CAER.svg?style=social&label=Star)](https://github.com/ydk122024/CAER)  
 
 
 ### MCoT Reasoning Over 3D
