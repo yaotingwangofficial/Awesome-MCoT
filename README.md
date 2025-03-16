@@ -46,6 +46,12 @@ To fill this gap, we present **_the first systematic survey of MCoT reasoning_**
 title - arxiv_html - paper_icon - github
 
 
+### MCoT Reasoning Over 3D
++ [**3D-PreMise: Can Large Language Models Generate 3D Shapes with Sharp Features and Parametric Control?**](https://arxiv.org/abs/2401.06437) [![Paper](https://img.shields.io/badge/arXiv-b22222)]()  
++ [**L3GO: Language Agents with Chain-of-3D-Thoughts for Generating Unconventional Objects**](https://arxiv.org/abs/2402.09052) [![Paper](https://img.shields.io/badge/arXiv-b22222)]()  
++ [**Gen2Sim: Scaling up Robot Learning in Simulation with Generative Models**](https://arxiv.org/abs/2310.18308) [![Paper](https://img.shields.io/badge/ICRA-000080)]() [![Star](https://img.shields.io/github/stars/pushkalkatara/Gen2Sim.svg?style=social&label=Star)](https://github.com/pushkalkatara/Gen2Sim)  
++ [**CoT3DRef: Chain-of-Thoughts Data-Efficient 3D Visual Grounding**](https://arxiv.org/abs/2310.06214) [![Paper](https://img.shields.io/badge/ICLR-8A2BE2)]() [![Star](https://img.shields.io/github/stars/eslambakr/CoT3D_VG.svg?style=social&label=Star)](https://github.com/eslambakr/CoT3D_VG)  
++ [**Integrating Chain-of-Thought for Multimodal Alignment: A Study on 3D Vision-Language Learning**](https://arxiv.org/abs/2503.06232) [![Paper](https://img.shields.io/badge/arXiv-b22222)]()  
 
 ### MCoT Reasoning Over Audio and Speech
 + [**CoT-ST: Enhancing LLM-based Speech Translation with Multimodal Chain-of-Thought**](https://arxiv.org/abs/2409.19510) [![Paper](https://img.shields.io/badge/arXiv-b22222)]() [![Star](https://img.shields.io/github/stars/X-LANCE/SLAM-LLM.svg?style=social&label=Star)](https://github.com/X-LANCE/SLAM-LLM/tree/main/examples/st_covost2)  
