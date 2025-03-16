@@ -13,9 +13,12 @@ To fill this gap, we present **_the first systematic survey of MCoT reasoning_**
 </p>
 
 ---
-# Updates
-✨ 2025-03-17: 
+# 📢 Updates
+> 2025-03-17: 
 
+---
+# ⌛️ TODO
+> 
 ---
 
 # 📕 Table of Contents
@@ -31,11 +34,11 @@ To fill this gap, we present **_the first systematic survey of MCoT reasoning_**
   - [MCoT Reasoning Over Audio and Speech](#mcot-reasoning-over-audio-and-speech) 
   - [MCoT Reasoning Over Table and Chart](#mcot-reasoning-over-table-and-chart) 
   - [Cross-modal CoT Reasoning](#cross-modal-cot-reasoning) 
-- [💥 Multimodal Reasoning Models](#-multimodal-reasoning-models)
+- [🔥 Multimodal Reasoning Models](#-multimodal-reasoning-models)
   - [Image](#image)
   - [Video](#video)
-  - [Audio](#Audio)
-  - [Omni](#Omni)
+  - [Audio](#audio)
+  - [Omni](#omni)
   
 
 ---
@@ -199,14 +202,19 @@ To fill this gap, we present **_the first systematic survey of MCoT reasoning_**
 
 ---
 
-# Multimodal Reasoning Models
+# 🔥 Multimodal Reasoning Models
 ### Image
 
 ### Video
++ [**Video-R1: Towards Super Reasoning Ability in Video Understanding**](https://github.com/tulerfeng/Video-R1) [![Star](https://img.shields.io/github/stars/tulerfeng/Video-R1.svg?style=social&label=Star)](https://github.com/tulerfeng/Video-R1)
 
+  
 ### Audio
++ [**Audio-Reasoner: Improving Reasoning Capability in Large Audio Language Models**](https://arxiv.org/abs/2503.02318) [![Paper](https://img.shields.io/badge/arXiv-b22222)]()  
 
 ### Omni
++ [**R1-Omni: Explainable Omni-Multimodal Emotion Recognition with Reinforcement Learning**](https://arxiv.org/abs/2503.05379) [![Paper](https://img.shields.io/badge/arXiv-b22222)]()  [![Star](https://img.shields.io/github/stars/HumanMLLM/R1-Omni.svg?style=social&label=Star)](https://github.com/HumanMLLM/R1-Omni)
+
 
 
 <!--title - arxiv_html - paper_icon - github-->
