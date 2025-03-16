@@ -1,26 +1,46 @@
 <h1 align="center">Awesome-MCoT</h1>
-Multimodal Chain-of-Thought Reasoning: A Comprehensive Survey
+<h2 align="center">Multimodal Chain-of-Thought Reasoning: A Comprehensive Survey</h2>
 
-# 🎨 Introduction
+
+# 🎇 Introduction
 
 Multimodal chain-of-thought (MCoT) reasoning has garnered attention for its ability to enhance ***step-by-step*** reasoning in multimodal contexts, particularly within multimodal large language models (MLLMs). Current MCoT research explores various methodologies to address the challenges posed by images, videos, speech, audio, 3D data, and structured data, achieving success in fields such as robotics, healthcare, and autonomous driving. However, despite these advancements, the field lacks a comprehensive review that addresses the numerous remaining challenges.
 
 To fill this gap, we present **_the first systematic survey of MCoT reasoning_**, elucidating the foundational concepts and definitions pertinent to this area. Our work includes a detailed taxonomy and an analysis of existing methodologies across different applications, as well as insights into current challenges and future research directions aimed at fostering the development of multimodal reasoning.
 
 <p align="center">
-  <img src="assets/mcot_tasks.png" width="75%">
+  <img src="assets/mcot_tasks.png" width="70%">
 </p>
 
-# 📕 Table of Contents
-
-- [🌷 MCoT Datasets and Benchmarks](#-datasets)
-- [🍕 Scene Graph Generation](#-scene-graph-generation)
-  - [2D (Image) Scene Graph Generation](#2d-image-scene-graph-generation)
-  - [Panoptic Scene Graph Generation](#panoptic-scene-graph-generation)
+---
+# Updates
+✨ 2025-03-17: 
 
 ---
 
-# MCoT Datasets and Benchmarks
+# 📕 Table of Contents
+
+- [🎖 MCoT Datasets and Benchmarks](#-mcot-datasets-and-benchmarks)
+  - [Training with rationle](#tab-1-datasets-for-mcot-training-with-rationale)
+  - [Evaluation without rationle](#tab-2-benchmarks-for-mcot-evaluation-without-rationale)
+  - [Evaluation with rationle](#tab-3-benchmarks-for-mcot-evaluation-with-rationale)
+- [✨ MCoT Over Various Modalities](#-mcot-over-various-modalities)
+  - [MCoT Reasoning Over Image](#mcot-reasoning-over-image)
+  - [MCoT Reasoning Over Video](#mcot-reasoning-over-video) 
+  - [MCoT Reasoning Over 3D](#mcot-reasoning-over-3d) 
+  - [MCoT Reasoning Over Audio and Speech](#mcot-reasoning-over-audio-and-speech) 
+  - [MCoT Reasoning Over Table and Chart](#mcot-reasoning-over-table-and-chart) 
+  - [Cross-modal CoT Reasoning](#cross-modal-cot-reasoning) 
+- [💥 Multimodal Reasoning Models](#-multimodal-reasoning-models)
+  - [Image](#image)
+  - [Video](#video)
+  - [Audio](#Audio)
+  - [Omni](#Omni)
+  
+
+---
+
+# 🎖 MCoT Datasets and Benchmarks
 * "MC" and "Open" refer to multiple-choice and open-ended answer formats.
 * "T", "I", "V", and "A" represent Text, Image, Video, and Audio, respectively.
 
@@ -90,7 +110,7 @@ To fill this gap, we present **_the first systematic survey of MCoT reasoning_**
 <!-- TPAMI-ffa07a -->
 
 
-# MCoT Over Various Modalities
+# ✨ MCoT Over Various Modalities
 ### MCoT Reasoning Over Image
 + [**See, Think, Confirm: Interactive Prompting Between Vision and Language Models for Knowledge-based Visual Reasoning**](https://arxiv.org/abs/2301.05226) [![Paper](https://img.shields.io/badge/arXiv-b22222)]() 
 + [**Multimodal Chain-of-Thought Reasoning in Language Models**](https://arxiv.org/abs/2302.00923) [![Paper](https://img.shields.io/badge/TMLR-FFA07A)]() [![Star](https://img.shields.io/github/stars/amazon-science/mm-cot.svg?style=social&label=Star)](https://github.com/amazon-science/mm-cot) 
@@ -179,7 +199,17 @@ To fill this gap, we present **_the first systematic survey of MCoT reasoning_**
 
 ---
 
-title - arxiv_html - paper_icon - github
+# Multimodal Reasoning Models
+### Image
+
+### Video
+
+### Audio
+
+### Omni
+
+
+<!--title - arxiv_html - paper_icon - github-->
 
 ---
 
