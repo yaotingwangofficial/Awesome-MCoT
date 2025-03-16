@@ -20,7 +20,6 @@ To fill this gap, we present **_the first systematic survey of MCoT reasoning_**
 
 ---
 
----
 
 <!-- CVPR-8A2BE2 -->
 <!-- WACV-6a5acd -->
@@ -35,7 +34,6 @@ To fill this gap, we present **_the first systematic survey of MCoT reasoning_**
 <!-- ACL-191970 -->
 <!-- EMNLP-191970 -->
 <!-- TPAMI-ffa07a -->
-title - arxiv_html - paper_icon - github
 
 
 # MCoT Over Various Modalities
@@ -68,29 +66,17 @@ title - arxiv_html - paper_icon - github
 + [**Multi-modal Latent Space Learning for Chain-of-Thought Reasoning in Language Models**](https://ojs.aaai.org/index.php/AAAI/article/view/29776/31338) [![Paper](https://img.shields.io/badge/AAAI-c71585)]() [![Star](https://img.shields.io/github/stars/shimurenhlq/DPMM-COT.svg?style=social&label=Star)](https://github.com/shimurenhlq/DPMM-COT)
 + [**Perception Tokens Enhance Visual Reasoning in Multimodal Language Models**](https://arxiv.org/abs/2412.03548v2) [![Paper](https://img.shields.io/badge/arXiv-b22222)]() [![Star](https://img.shields.io/github/stars/mahtabbigverdi/Aurora.svg?style=social&label=Star)](https://github.com/mahtabbigverdi/Aurora/tree/main)
 + [**Visual CoT: Advancing MLLMs with a Comprehensive Dataset and Benchmark for Chain-of-Thought Reasoning**](https://arxiv.org/abs/2403.16999) [![Paper](https://img.shields.io/badge/NIPS-CD5C5C)]() [![Star](https://img.shields.io/github/stars/deepcs233/Visual-CoT.svg?style=social&label=Star)](https://github.com/deepcs233/Visual-CoT)
-
-
-title - arxiv_html - paper_icon - github
-+ RAGAR, Your Falsehood Radar: RAG-Augmented Reasoning for Political Fact-Checking using Multimodal Large Language Models - https://arxiv.org/abs/2404.12065 -
-+ Cantor: Inspiring Multimodal Chain-of-Thought of MLLM - https://arxiv.org/abs/2404.16033 - https://github.com/ggg0919/cantor
-+ KAM-CoT: Knowledge Augmented Multimodal Chain-of-Thoughts Reasoning - https://arxiv.org/abs/2401.12863 - AAAI -
-+ PKRD-CoT: A Unified Chain-of-thought Prompting for Multi-Modal Large Language Models in Autonomous Driving - https://arxiv.org/abs/2412.02025 - ICONIP -
-+ Beyond Chain-of-Thought, Effective Graph-of-Thought Reasoning in Language Models - https://arxiv.org/abs/2305.16582 - acl - https://github.com/Zoeyyao27/Graph-of-Thought
-+ A Picture Is Worth a Graph: A Blueprint Debate Paradigm for Multimodal Reasoning - https://arxiv.org/abs/2403.14972 - acmmm - https://github.com/thecharm/BDoG
-+ Dolphins: Multimodal Language Model for Driving - https://arxiv.org/abs/2312.00438 - eccv - https://github.com/vlm-driver/Dolphins
-+ Enhancing Large Vision Language Models with Self-Training on Image Comprehension - https://arxiv.org/abs/2405.19716 - nips - https://github.com/yihedeng9/STIC
-+ PS-CoT-Adapter: adapting plan-and-solve chain-of-thought for ScienceQA - https://link.springer.com/article/10.1007/s11432-024-4211-9 - SCIC - https://github.com/Sunhxxin/PS-CoT-Adapter
-+ Enhancing Semantics in Multimodal Chain of Thought via Soft Negative Sampling - https://aclanthology.org/2024.lrec-main.537/ - COLING
-+ Chain-of-Exemplar: Enhancing Distractor Generation for Multimodal Educational Question Generation - https://aclanthology.org/2024.acl-long.432/ - acl - https://github.com/Luohh5/Chain-of-Exemplar
-+ R-CoT: Reverse Chain-of-Thought Problem Generation for Geometric Reasoning in Large Multimodal Models - https://arxiv.org/abs/2410.17885 - arxiv - https://github.com/dle666/r-cot
-+ Multi-modal Latent Space Learning for Chain-of-Thought Reasoning in Language Models - https://ojs.aaai.org/index.php/AAAI/article/view/29776/31338 - aaai - https://github.com/shimurenhlq/DPMM-COT
-+ Perception Tokens Enhance Visual Reasoning in Multimodal Language Models - https://arxiv.org/abs/2412.03548v2 - https://github.com/mahtabbigverdi/Aurora/tree/main
-+ Visual CoT: Advancing Multi-Modal Language Models with a Comprehensive Dataset and Benchmark for Chain-of-Thought Reasoning - https://arxiv.org/abs/2403.16999 - nips - https://github.com/deepcs233/Visual-CoT
-+ 
-  
-
-
-
++ [**Chain of Images for Intuitively Reasoning**](https://arxiv.org/abs/2311.09241) [![Paper](https://img.shields.io/badge/arXiv-b22222)]()  [![Star](https://img.shields.io/github/stars/GraphPKU/CoI.svg?style=social&label=Star)](https://github.com/GraphPKU/CoI)
++ [**Visual Sketchpad: Sketching as a Visual Chain of Thought for Multimodal Language Models**](https://arxiv.org/abs/2406.09403) [![Paper](https://img.shields.io/badge/NIPS-CD5C5C)]()  [![Star](https://img.shields.io/github/stars/Yushi-Hu/VisualSketchpad.svg?style=social&label=Star)](https://github.com/Yushi-Hu/VisualSketchpad)
++ [**Imagine while Reasoning in Space: Multimodal Visualization-of-Thought**](https://arxiv.org/abs/2501.07542) [![Paper](https://img.shields.io/badge/arXiv-b22222)]()  
++ [**Mind's Eye of LLMs: Visualization-of-Thought Elicits Spatial Reasoning in Large Language Models**](https://arxiv.org/abs/2404.03622) [![Paper](https://img.shields.io/badge/NIPS-CD5C5C)]()  [![Star](https://img.shields.io/github/stars/sitloboi2012/Visualization-of-Thought.svg?style=social&label=Star)](https://github.com/sitloboi2012/Visualization-of-Thought)
++ [**CoTDet: Affordance Knowledge Prompting for Task Driven Object Detection**](https://openaccess.thecvf.com/content/ICCV2023/papers/Tang_CoTDet_Affordance_Knowledge_Prompting_for_Task_Driven_Object_Detection_ICCV_2023_paper.pdf) [![Paper](https://img.shields.io/badge/ICCV-00CED1)]()  [![Star](https://img.shields.io/github/stars/toneyaya/cotdet.svg?style=social&label=Star)](https://toneyaya.github.io/cotdet)
++ [**DetToolChain: A New Prompting Paradigm to Unleash Detection Ability of MLLM**](https://link.springer.com/chapter/10.1007/978-3-031-73411-3_10) [![Paper](https://img.shields.io/badge/ECCV-1e90ff)]()  [![Star](https://img.shields.io/github/stars/yixuan730/DetToolChain.svg?style=social&label=Star)](https://github.com/yixuan730/DetToolChain)
++ [**CPSeg: Finer-grained Image Semantic Segmentation via Chain-of-Thought Language Prompting**](https://arxiv.org/abs/2310.16069) [![Paper](https://img.shields.io/badge/WACV-6a5acd)]()  
++ [**PromptCoT: Align Prompt Distribution via Adapted Chain-of-Thought**](https://ieeexplore.ieee.org/iel8/10654794/10654797/10656469.pdf) [![Paper](https://img.shields.io/badge/CVPR-8A2BE2)]()  
++ [**Can We Generate Images with CoT? Let's Verify and Reinforce Image Generation Step by Step**](https://arxiv.org/abs/2501.13926) [![Paper](https://img.shields.io/badge/arXiv-b22222)]()  [![Star](https://img.shields.io/github/stars/ZiyuGuo99/Image-Generation-CoT.svg?style=social&label=Star)](https://github.com/ZiyuGuo99/Image-Generation-CoT)
++ [**LayoutLLM-T2I: Eliciting Layout Guidance from LLM for Text-to-Image Generation**](https://arxiv.org/abs/2308.05095) [![Paper](https://img.shields.io/badge/ACMMM-yellow)]()  [![Star](https://img.shields.io/github/stars/LayoutLLM-T2I/LayoutLLM-T2I.svg?style=social&label=Star)](https://github.com/LayoutLLM-T2I/LayoutLLM-T2I)
++ [**CreatiLayout: Siamese Multimodal Diffusion Transformer for Creative Layout-to-Image Generation**](https://arxiv.org/abs/2412.03859) [![Paper](https://img.shields.io/badge/arXiv-b22222)]()  [![Star](https://img.shields.io/github/stars/HuiZhang0812/CreatiLayout.svg?style=social&label=Star)](https://github.com/HuiZhang0812/CreatiLayout)
 
 ### MCoT Reasoning Over Video
 + [**IntentQA: Context-aware Video Intent Reasoning**](https://openaccess.thecvf.com/content/ICCV2023/papers/Li_IntentQA_Context-aware_Video_Intent_Reasoning_ICCV_2023_paper.pdf) [![Paper](https://img.shields.io/badge/ICCV-00CED1)]() [![Star](https://img.shields.io/github/stars/JoseponLee/IntentQA.svg?style=social&label=Star)](https://github.com/JoseponLee/IntentQA)  
@@ -139,6 +125,9 @@ title - arxiv_html - paper_icon - github
 
 ---
 
+title - arxiv_html - paper_icon - github
+
+---
 
 # ⭐️ Star History
 
