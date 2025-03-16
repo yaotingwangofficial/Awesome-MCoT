@@ -46,7 +46,9 @@ To fill this gap, we present **_the first systematic survey of MCoT reasoning_**
   - [Objective Granularity](#objective-granularity)
   - [Multimodal Rationale](#multimodal-rationale)
   - [Test-time Scaling](#test-time-scaling)
+- [🚀 Useful Links](#-useful-links)
 - [🔦 Discussion Group](#-discussion-group)
+- [⭐️ Star History](#%EF%B8%8F-star-history)
 
 ---
 
@@ -241,11 +243,11 @@ To fill this gap, we present **_the first systematic survey of MCoT reasoning_**
 
 --- 
 # 🔦 Discussion Group
-Check issue-02:
+> Check issue-02:
 ---
 
 <!--title - arxiv_html - paper_icon - github-->
-
+---
 # ⭐️ Star History
 
 [![Star History Chart](https://api.star-history.com/svg?repos=yaotingwangofficial/Awesome-MCoT&type=Date)](https://star-history.com/#yaotingwangofficial/Awesome-MCoT&Date)
