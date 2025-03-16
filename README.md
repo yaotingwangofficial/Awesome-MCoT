@@ -9,7 +9,7 @@ Multimodal chain-of-thought (MCoT) reasoning has garnered attention for its abil
 To fill this gap, we present **_the first systematic survey of MCoT reasoning_**, elucidating the foundational concepts and definitions pertinent to this area. Our work includes a detailed taxonomy and an analysis of existing methodologies across different applications, as well as insights into current challenges and future research directions aimed at fostering the development of multimodal reasoning.
 
 <p align="center">
-  <img src="assets/mcot_tasks.png" width="70%">
+  <img src="assets/mcot_tasks.png" width="60%">
 </p>
 
 ---
@@ -39,7 +39,14 @@ To fill this gap, we present **_the first systematic survey of MCoT reasoning_**
   - [Video](#video)
   - [Audio](#audio)
   - [Omni](#omni)
-  
+- [🪄 MCoT Methodologies](#-mcot-methodologies)
+  - [Rationale Construction](#rationale-construction)
+  - [Structural Reasoning](#structural-reasoning)
+  - [Information Enhancing](#information-enhancing)
+  - [Objective Granularity](#objective-granularity)
+  - [Multimodal Rationale](#multimodal-rationale)
+  - [Test-time Scaling](#test-time-scaling)
+- [🔦 Discussion Group](#-discussion-group)
 
 ---
 
@@ -215,13 +222,32 @@ To fill this gap, we present **_the first systematic survey of MCoT reasoning_**
 ### Omni
 + [**R1-Omni: Explainable Omni-Multimodal Emotion Recognition with Reinforcement Learning**](https://arxiv.org/abs/2503.05379) [![Paper](https://img.shields.io/badge/arXiv-b22222)]()  [![Star](https://img.shields.io/github/stars/HumanMLLM/R1-Omni.svg?style=social&label=Star)](https://github.com/HumanMLLM/R1-Omni)
 
+---
+# 🪄 MCoT Methodologies
+## Rationale Construction
+## Structural Reasoning
+## Information Enhancing
+## Objective Granularity
+## Multimodal Rationale
+## Test-time Scaling
 
-
-<!--title - arxiv_html - paper_icon - github-->
 
 ---
+# 🚀 Useful Links
+### Survey
++ [From System 1 to System 2: A Survey of Reasoning Large Language Models](https://arxiv.org/abs/2502.17419)
++ [Rethinking External Slow-Thinking: From Snowball Errors to Probability of Correct Reasoning](https://arxiv.org/abs/2501.15602)
++ [Towards Reasoning Era: A Survey of Long Chain-of-Thought for Reasoning Large Language Models](https://arxiv.org/abs/2503.09567)
+
+--- 
+# 🔦 Discussion Group
+Check issue-02:
+---
+
+<!--title - arxiv_html - paper_icon - github-->
 
 # ⭐️ Star History
 
 [![Star History Chart](https://api.star-history.com/svg?repos=yaotingwangofficial/Awesome-MCoT&type=Date)](https://star-history.com/#yaotingwangofficial/Awesome-MCoT&Date)
+
 
