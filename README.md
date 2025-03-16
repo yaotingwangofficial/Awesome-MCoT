@@ -21,10 +21,12 @@ To fill this gap, we present **_the first systematic survey of MCoT reasoning_**
 ---
 
 # MCoT Datasets and Benchmarks
+* "MC" and "Open" refer to multiple-choice and open-ended answer formats.
+* "T", "I", "V", and "A" represent Text, Image, Video, and Audio, respectively.
 
+### Tab-1: Datasets for MCoT _Training_ _with_ Rationale. 
 | Datasets                  | Year | Task              | Domain               | Modality | Format         | Samples   |
-|---------------------------|------|-------------------|----------------------|----------|----------------|-----------|
-|                           |      |                   | **training with rationale**     |     |          |           |  
+|:---------------------------:|:------:|:-------------------:|:----------------------:|:----------:|:----------------:|:-----------:|
 | ScienceQA                 | 2022 | VQA               | Science              | T, I     | MC             | 21K       |
 | A-OKVQA                   | 2022 | VQA               | Common               | T, I     | MC             | 25K       |
 | EgoCoT                    | 2023 | VideoQA           | Common               | T, V     | Open           | 200M      |
@@ -39,8 +41,10 @@ To fill this gap, we present **_the first systematic survey of MCoT reasoning_**
 | MM-Verify                 | 2025 | MathQA            | Math                 | T, I     | MC and Open    | 59,772    |
 | VisualPRM400K             | 2025 | ScienceQA         | Math, Science        | T, I     | MC and Open    | 400K      |
 | R1-OneVision              | 2025 | Diverse           | Diverse              | T, I     | MC and Open    | 155K      |
-|                           |      |                   |                      |          |                |           |
-|                           |      |                   |  **evaluation without rationale** |          |              |        
+
+### Tab-2: Benchmarks for MCoT _Evaluation_ _without_ Rationale.
+| Datasets                  | Year | Task              | Domain               | Modality | Format         | Samples   |
+|:---------------------------:|:------:|:-------------------:|:----------------------:|:----------:|:----------------:|:-----------:|
 | MMMU                      | 2023 | VQA               | Arts, Science        | T, I     | MC and Open    | 11.5K     |
 | SEED                      | 2023 | VQA               | Common               | T, I     | MC             | 19K       |
 | MathVista                 | 2023 | ScienceQA         | Math                 | T, I     | MC and Open    | 6,141     |
@@ -56,8 +60,11 @@ To fill this gap, we present **_the first systematic survey of MCoT reasoning_**
 | AVTrustBench              | 2025 | AVQA              | Common               | T, V, A  | MC and Open    | 600K      |
 | MIG-Bench                 | 2025 | Multi-image Grounding | Common          | T, I     | BBox           | 5.89K     |
 | MedAgentsBench            | 2025 | MedicalQA         | Medical              | T, I     | MC and Open    | 862       |
-|                           |      |                   |                      |          |                |           |
-|                           |      |                   |   **evaluation with rationale**  |          |                |        
+
+
+### Tab-3: Benchmarks for MCoT _Evaluation_ _with_ Rationale.
+| Datasets                  | Year | Task              | Domain               | Modality | Format         | Samples   |
+|:---------------------------:|:------:|:-------------------:|:----------------------:|:----------:|:----------------:|:-----------:|
 | CoMT                      | 2024 | VQA               | Common               | T, I     | MC             | 3,853     |
 | OmniBench                 | 2024 | VideoQA           | Common               | T, I, A  | MC             | 1,142     |
 | WorldQA                   | 2024 | VideoQA           | Common               | T, V, A  | Open           | 1,007     |
@@ -67,7 +74,6 @@ To fill this gap, we present **_the first systematic survey of MCoT reasoning_**
 | EMMA                      | 2025 | VQA               | Science              | T, I     | MC and Open    | 2,788     |
 | VisualProcessBench        | 2025 | ScienceQA         | Math, Science        | T, I     | MC and Open    | 2,866     |
 
-**Caption:** Datasets and Benchmarks for MCoT Training and Evaluation. "MC" and "Open" refer to multiple-choice and open-ended answer formats, while "T", "I", "V", and "A" represent Text, Image, Video, and Audio, respectively.
-
+---
 
 
