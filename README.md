@@ -48,6 +48,7 @@ To fill this gap, we present **_the first systematic survey of MCoT reasoning_**
   - [Test-time Scaling](#test-time-scaling)
 - [🚀 Useful Links](#-useful-links)
 - [🔦 Discussion Group](#-discussion-group)
+- [❤️ Citation](#%EF%B8%8F-citation)
 - [⭐️ Star History](#%EF%B8%8F-star-history)
 
 ---
@@ -244,7 +245,17 @@ To fill this gap, we present **_the first systematic survey of MCoT reasoning_**
 --- 
 # 🔦 Discussion Group
 > Check issue-02:
+
 ---
+# ❤️ Citation
+> We would be honored if this work could assist you, and greatly appreciate it if you could consider starring and citing it:
+```
+@article{wang2025multimodal,
+  author    = {Yaoting, Wang and Shengqiong, Wu and Yuecheng, Zhang and William, Wang and Ziwei, Liu and Jiebo, Luo and Hao, Fei},
+  title     = {Multimodal Chain-of-Thought Reasoning: A Comprehensive Survey},
+  year      = {2025},
+}
+```
 
 <!--title - arxiv_html - paper_icon - github-->
 ---
