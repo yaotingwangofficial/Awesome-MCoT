@@ -77,3 +77,7 @@ To fill this gap, we present **_the first systematic survey of MCoT reasoning_**
 ---
 
 
+# ⭐️ Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=yaotingwangofficial/Awesome-MCoT&type=Date)](https://star-history.com/#yaotingwangofficial/Awesome-MCoT&Date)
+
