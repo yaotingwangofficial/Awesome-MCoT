@@ -40,8 +40,26 @@ title - arxiv_html - paper_icon - github
 
 # MCoT Over Various Modalities
 ### MCoT Reasoning Over Image
++ [**See, Think, Confirm: Interactive Prompting Between Vision and Language Models for Knowledge-based Visual Reasoning**](https://arxiv.org/abs/2301.05226) [![Paper](https://img.shields.io/badge/arXiv-b22222)]() 
++ [**Multimodal Chain-of-Thought Reasoning in Language Models**](https://arxiv.org/abs/2302.00923) [![Paper](https://img.shields.io/badge/TMLR-FFA07A)]() [![Star](https://img.shields.io/github/stars/amazon-science/mm-cot.svg?style=social&label=Star)](https://github.com/amazon-science/mm-cot) 
++ [**MC-CoT: A Modular Collaborative CoT Framework for Zero-shot Medical-VQA with LLM and MLLM Integration**](https://arxiv.org/abs/2410.04521) [![Paper](https://img.shields.io/badge/arXiv-b22222)]() [![Star](https://img.shields.io/github/stars/thomaswei-cn/MC-CoT.svg?style=social&label=Star)](https://github.com/thomaswei-cn/MC-CoT) 
++ [**Sketch-of-Thought: Efficient LLM Reasoning with Adaptive Cognitive-Inspired Sketching**](https://arxiv.org/abs/2503.05179) [![Paper](https://img.shields.io/badge/arXiv-b22222)]() [![Star](https://img.shields.io/github/stars/SimonAytes/SoT.svg?style=social&label=Star)](https://github.com/SimonAytes/SoT) 
++ [**Compositional Chain-of-Thought Prompting for Large Multimodal Models**](https://arxiv.org/abs/2311.17076) [![Paper](https://img.shields.io/badge/CVPR-8A2BE2)]() [![Star](https://img.shields.io/github/stars/chancharikmitra/CCoT.svg?style=social&label=Star)](https://github.com/chancharikmitra/CCoT) 
++ [**CoCoT: Contrastive Chain-of-Thought Prompting for Large Multimodal Models with Multiple Image Inputs**](https://arxiv.org/abs/2401.02582) [![Paper](https://img.shields.io/badge/arXiv-b22222)]() 
++ [**RelationLMM: Large Multimodal Model as Open and Versatile Visual Relationship Generalist**](https://ieeexplore.ieee.org/document/10845195) [![Paper](https://img.shields.io/badge/TPAMI-FFA07A)]() 
++ [**Thinking Like an Expert:Multimodal Hypergraph-of-Thought (HoT) Reasoning to boost Foundation Modals**](https://arxiv.org/abs/2308.06207) [![Paper](https://img.shields.io/badge/arXiv-b22222)]() 
++ [**DDCoT: Duty-Distinct Chain-of-Thought Prompting for Multimodal Reasoning in Language Models**](https://arxiv.org/abs/2310.16436) [![Paper](https://img.shields.io/badge/NIPS-CD5C5C)]() [![Star](https://img.shields.io/github/stars/SooLab/DDCOT.svg?style=social&label=Star)](https://github.com/SooLab/DDCOT) 
++ [**The Art of SOCRATIC QUESTIONING: Recursive Thinking with Large Language Models**](https://arxiv.org/abs/2305.14999) [![Paper](https://img.shields.io/badge/ACL-191970)]() [![Star](https://img.shields.io/github/stars/VT-NLP/SOCRATIC-QUESTIONING.svg?style=social&label=Star)](https://github.com/VT-NLP/SOCRATIC-QUESTIONING) 
++ [**Chain-of-Spot: Interactive Reasoning Improves Large Vision-Language Models**](https://arxiv.org/abs/2403.12966) [![Paper](https://img.shields.io/badge/arXiv-b22222)]() [![Star](https://img.shields.io/github/stars/dongyh20/Chain-of-Spot.svg?style=social&label=Star)](https://github.com/dongyh20/Chain-of-Spot) 
++ [**TextCoT: Zoom In for Enhanced Multimodal Text-Rich Image Understanding**](https://arxiv.org/abs/2404.09797) [![Paper](https://img.shields.io/badge/arXiv-b22222)]() [![Star](https://img.shields.io/github/stars/bzluan/TextCoT.svg?style=social&label=Star)](https://github.com/bzluan/TextCoT) 
++ [**DCoT: Dual Chain-of-Thought Prompting for Large Multimodal Models**](https://openreview.net/forum?id=0saecDOdh2) [![Paper](https://img.shields.io/badge/ACML-808080)]() 
 
 title - arxiv_html - paper_icon - github
+ 
+  
+
+
+
 
 ### MCoT Reasoning Over Video
 + [**IntentQA: Context-aware Video Intent Reasoning**](https://openaccess.thecvf.com/content/ICCV2023/papers/Li_IntentQA_Context-aware_Video_Intent_Reasoning_ICCV_2023_paper.pdf) [![Paper](https://img.shields.io/badge/ICCV-00CED1)]() [![Star](https://img.shields.io/github/stars/JoseponLee/IntentQA.svg?style=social&label=Star)](https://github.com/JoseponLee/IntentQA)  
