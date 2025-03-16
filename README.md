@@ -53,9 +53,40 @@ title - arxiv_html - paper_icon - github
 + [**Chain-of-Spot: Interactive Reasoning Improves Large Vision-Language Models**](https://arxiv.org/abs/2403.12966) [![Paper](https://img.shields.io/badge/arXiv-b22222)]() [![Star](https://img.shields.io/github/stars/dongyh20/Chain-of-Spot.svg?style=social&label=Star)](https://github.com/dongyh20/Chain-of-Spot) 
 + [**TextCoT: Zoom In for Enhanced Multimodal Text-Rich Image Understanding**](https://arxiv.org/abs/2404.09797) [![Paper](https://img.shields.io/badge/arXiv-b22222)]() [![Star](https://img.shields.io/github/stars/bzluan/TextCoT.svg?style=social&label=Star)](https://github.com/bzluan/TextCoT) 
 + [**DCoT: Dual Chain-of-Thought Prompting for Large Multimodal Models**](https://openreview.net/forum?id=0saecDOdh2) [![Paper](https://img.shields.io/badge/ACML-808080)]() 
++ [**RAGAR, Your Falsehood Radar: RAG-Augmented Reasoning for Political Fact-Checking using Multimodal Large Language Models**](https://arxiv.org/abs/2404.12065) [![Paper](https://img.shields.io/badge/arXiv-b22222)]()
++ [**Cantor: Inspiring Multimodal Chain-of-Thought of MLLM**](https://arxiv.org/abs/2404.16033) [![Paper](https://img.shields.io/badge/arXiv-b22222)]() [![Star](https://img.shields.io/github/stars/ggg0919/cantor.svg?style=social&label=Star)](https://github.com/ggg0919/cantor)
++ [**KAM-CoT: Knowledge Augmented Multimodal Chain-of-Thoughts Reasoning**](https://arxiv.org/abs/2401.12863) [![Paper](https://img.shields.io/badge/AAAI-c71585)]()
++ [**PKRD-CoT: A Unified Chain-of-thought Prompting for Multi-Modal Large Language Models in Autonomous Driving**](https://arxiv.org/abs/2412.02025) [![Paper](https://img.shields.io/badge/ICONIP-2F4F4F)]()
++ [**Beyond Chain-of-Thought, Effective Graph-of-Thought Reasoning in Language Models**](https://arxiv.org/abs/2305.16582) [![Paper](https://img.shields.io/badge/ACL-191970)]() [![Star](https://img.shields.io/github/stars/Zoeyyao27/Graph-of-Thought.svg?style=social&label=Star)](https://github.com/Zoeyyao27/Graph-of-Thought)
++ [**A Picture Is Worth a Graph: A Blueprint Debate Paradigm for Multimodal Reasoning**](https://arxiv.org/abs/2403.14972) [![Paper](https://img.shields.io/badge/ACMMM-FFFF00)]() [![Star](https://img.shields.io/github/stars/thecharm/BDoG.svg?style=social&label=Star)](https://github.com/thecharm/BDoG)
++ [**Dolphins: Multimodal Language Model for Driving**](https://arxiv.org/abs/2312.00438) [![Paper](https://img.shields.io/badge/ECCV-1e90ff)]() [![Star](https://img.shields.io/github/stars/vlm-driver/Dolphins.svg?style=social&label=Star)](https://github.com/vlm-driver/Dolphins)
++ [**Enhancing Large Vision Language Models with Self-Training on Image Comprehension**](https://arxiv.org/abs/2405.19716) [![Paper](https://img.shields.io/badge/NIPS-CD5C5C)]() [![Star](https://img.shields.io/github/stars/yihedeng9/STIC.svg?style=social&label=Star)](https://github.com/yihedeng9/STIC)
++ [**PS-CoT-Adapter: adapting plan-and-solve chain-of-thought for ScienceQA**](https://link.springer.com/article/10.1007/s11432-024-4211-9) [![Paper](https://img.shields.io/badge/SCIC-2F4F4F)]() [![Star](https://img.shields.io/github/stars/Sunhxxin/PS-CoT-Adapter.svg?style=social&label=Star)](https://github.com/Sunhxxin/PS-CoT-Adapter)
++ [**Enhancing Semantics in Multimodal Chain of Thought via Soft Negative Sampling**](https://aclanthology.org/2024.lrec-main.537/) [![Paper](https://img.shields.io/badge/COLING-191970)]()
++ [**Chain-of-Exemplar: Enhancing Distractor Generation for Multimodal Educational Question Generation**](https://aclanthology.org/2024.acl-long.432/) [![Paper](https://img.shields.io/badge/ACL-191970)]() [![Star](https://img.shields.io/github/stars/Luohh5/Chain-of-Exemplar.svg?style=social&label=Star)](https://github.com/Luohh5/Chain-of-Exemplar)
++ [**R-CoT: Reverse Chain-of-Thought Problem Generation for Geometric Reasoning in Large Multimodal Models**](https://arxiv.org/abs/2410.17885) [![Paper](https://img.shields.io/badge/arXiv-b22222)]() [![Star](https://img.shields.io/github/stars/dle666/r-cot.svg?style=social&label=Star)](https://github.com/dle666/r-cot)
++ [**Multi-modal Latent Space Learning for Chain-of-Thought Reasoning in Language Models**](https://ojs.aaai.org/index.php/AAAI/article/view/29776/31338) [![Paper](https://img.shields.io/badge/AAAI-c71585)]() [![Star](https://img.shields.io/github/stars/shimurenhlq/DPMM-COT.svg?style=social&label=Star)](https://github.com/shimurenhlq/DPMM-COT)
++ [**Perception Tokens Enhance Visual Reasoning in Multimodal Language Models**](https://arxiv.org/abs/2412.03548v2) [![Paper](https://img.shields.io/badge/arXiv-b22222)]() [![Star](https://img.shields.io/github/stars/mahtabbigverdi/Aurora.svg?style=social&label=Star)](https://github.com/mahtabbigverdi/Aurora/tree/main)
++ [**Visual CoT: Advancing MLLMs with a Comprehensive Dataset and Benchmark for Chain-of-Thought Reasoning**](https://arxiv.org/abs/2403.16999) [![Paper](https://img.shields.io/badge/NIPS-CD5C5C)]() [![Star](https://img.shields.io/github/stars/deepcs233/Visual-CoT.svg?style=social&label=Star)](https://github.com/deepcs233/Visual-CoT)
+
 
 title - arxiv_html - paper_icon - github
- 
++ RAGAR, Your Falsehood Radar: RAG-Augmented Reasoning for Political Fact-Checking using Multimodal Large Language Models - https://arxiv.org/abs/2404.12065 -
++ Cantor: Inspiring Multimodal Chain-of-Thought of MLLM - https://arxiv.org/abs/2404.16033 - https://github.com/ggg0919/cantor
++ KAM-CoT: Knowledge Augmented Multimodal Chain-of-Thoughts Reasoning - https://arxiv.org/abs/2401.12863 - AAAI -
++ PKRD-CoT: A Unified Chain-of-thought Prompting for Multi-Modal Large Language Models in Autonomous Driving - https://arxiv.org/abs/2412.02025 - ICONIP -
++ Beyond Chain-of-Thought, Effective Graph-of-Thought Reasoning in Language Models - https://arxiv.org/abs/2305.16582 - acl - https://github.com/Zoeyyao27/Graph-of-Thought
++ A Picture Is Worth a Graph: A Blueprint Debate Paradigm for Multimodal Reasoning - https://arxiv.org/abs/2403.14972 - acmmm - https://github.com/thecharm/BDoG
++ Dolphins: Multimodal Language Model for Driving - https://arxiv.org/abs/2312.00438 - eccv - https://github.com/vlm-driver/Dolphins
++ Enhancing Large Vision Language Models with Self-Training on Image Comprehension - https://arxiv.org/abs/2405.19716 - nips - https://github.com/yihedeng9/STIC
++ PS-CoT-Adapter: adapting plan-and-solve chain-of-thought for ScienceQA - https://link.springer.com/article/10.1007/s11432-024-4211-9 - SCIC - https://github.com/Sunhxxin/PS-CoT-Adapter
++ Enhancing Semantics in Multimodal Chain of Thought via Soft Negative Sampling - https://aclanthology.org/2024.lrec-main.537/ - COLING
++ Chain-of-Exemplar: Enhancing Distractor Generation for Multimodal Educational Question Generation - https://aclanthology.org/2024.acl-long.432/ - acl - https://github.com/Luohh5/Chain-of-Exemplar
++ R-CoT: Reverse Chain-of-Thought Problem Generation for Geometric Reasoning in Large Multimodal Models - https://arxiv.org/abs/2410.17885 - arxiv - https://github.com/dle666/r-cot
++ Multi-modal Latent Space Learning for Chain-of-Thought Reasoning in Language Models - https://ojs.aaai.org/index.php/AAAI/article/view/29776/31338 - aaai - https://github.com/shimurenhlq/DPMM-COT
++ Perception Tokens Enhance Visual Reasoning in Multimodal Language Models - https://arxiv.org/abs/2412.03548v2 - https://github.com/mahtabbigverdi/Aurora/tree/main
++ Visual CoT: Advancing Multi-Modal Language Models with a Comprehensive Dataset and Benchmark for Chain-of-Thought Reasoning - https://arxiv.org/abs/2403.16999 - nips - https://github.com/deepcs233/Visual-CoT
++ 
   
 
 
