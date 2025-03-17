@@ -1,6 +1,6 @@
-<h1 align="center">Awesome-MCoT</h1>
-<h2 align="center">Multimodal Chain-of-Thought Reasoning: A Comprehensive Survey</h2>
 
+<h2 align="center">Multimodal Chain-of-Thought Reasoning: A Comprehensive Survey</h2>
+<!-- <h1 align="center">Awesome-MCoT</h1> -->
 
 # 🎇 Introduction
 
@@ -13,14 +13,12 @@ To fill this gap, we present **_the first systematic survey of MCoT reasoning_**
 </p>
 
 ---
-# 📢 Updates
-> 2025-03-17: 
+[![Maintenance](https://img.shields.io/badge/Maintenance-FF9800?style=plastic&logo=maintenance&logoColor=white)](https://github.com/yaotingwangofficial/Awesome-MCoT/issues/1)
+[![WeChat](https://img.shields.io/badge/WeChat-007ACC?style=plastic&logo=wechat&logoColor=white)](https://github.com/yaotingwangofficial/Awesome-MCoT/issues/2)
+### Updates
+> 2025-03-18: We release the Awesome-MCoT repo.
 
 ---
-# ⌛️ TODO
-> 
----
-
 # 📕 Table of Contents
 
 - [🎖 MCoT Datasets and Benchmarks](#-mcot-datasets-and-benchmarks)
@@ -39,15 +37,7 @@ To fill this gap, we present **_the first systematic survey of MCoT reasoning_**
   - [Video](#video)
   - [Audio](#audio)
   - [Omni](#omni)
-- [🪄 MCoT Methodologies](#-mcot-methodologies)
-  - [Rationale Construction](#rationale-construction)
-  - [Structural Reasoning](#structural-reasoning)
-  - [Information Enhancing](#information-enhancing)
-  - [Objective Granularity](#objective-granularity)
-  - [Multimodal Rationale](#multimodal-rationale)
-  - [Test-time Scaling](#test-time-scaling)
 - [🚀 Useful Links](#-useful-links)
-- [🔦 Discussion Group](#-discussion-group)
 - [❤️ Citation](#%EF%B8%8F-citation)
 - [⭐️ Star History](#%EF%B8%8F-star-history)
 
@@ -225,15 +215,6 @@ To fill this gap, we present **_the first systematic survey of MCoT reasoning_**
 ### Omni
 + [**R1-Omni: Explainable Omni-Multimodal Emotion Recognition with Reinforcement Learning**](https://arxiv.org/abs/2503.05379) [![Paper](https://img.shields.io/badge/arXiv-b22222)]()  [![Star](https://img.shields.io/github/stars/HumanMLLM/R1-Omni.svg?style=social&label=Star)](https://github.com/HumanMLLM/R1-Omni)
 
----
-# 🪄 MCoT Methodologies
-## Rationale Construction
-## Structural Reasoning
-## Information Enhancing
-## Objective Granularity
-## Multimodal Rationale
-## Test-time Scaling
-
 
 ---
 # 🚀 Useful Links
@@ -242,9 +223,6 @@ To fill this gap, we present **_the first systematic survey of MCoT reasoning_**
 + [Rethinking External Slow-Thinking: From Snowball Errors to Probability of Correct Reasoning](https://arxiv.org/abs/2501.15602)
 + [Towards Reasoning Era: A Survey of Long Chain-of-Thought for Reasoning Large Language Models](https://arxiv.org/abs/2503.09567)
 
---- 
-# 🔦 Discussion Group
-> Check issue-02:
 
 ---
 # ❤️ Citation
