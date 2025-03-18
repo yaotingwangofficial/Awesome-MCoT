@@ -13,9 +13,9 @@ To fill this gap, we present **_the first systematic survey of MCoT reasoning_**
 </p>
 
 ---
-[![arXiv](https://img.shields.io/badge/arXiv-1234.5678-b31b1b?style=plastic&logo=arxiv)](https://arxiv.org/abs/1234.5678)
+[![arXiv](https://img.shields.io/badge/arXiv-2503.12605-b31b1b?style=plastic&logo=arxiv)](https://arxiv.org/abs/2503.12605)
 [![Maintenance](https://img.shields.io/badge/Maintenance-FF9800?style=plastic&logo=maintenance&logoColor=white)](https://github.com/yaotingwangofficial/Awesome-MCoT/issues/1)
-[![WeChat](https://img.shields.io/badge/Discussion-Open-brightgreen?style=plastic&logo=discussion&logoColor=white)](https://github.com/yaotingwangofficial/Awesome-MCoT/discussions)
+[![Discussion](https://img.shields.io/badge/Discussion-Open-brightgreen?style=plastic&logo=discussion&logoColor=white)](https://github.com/yaotingwangofficial/Awesome-MCoT/discussions)
 [![WeChat](https://img.shields.io/badge/WeChat-007ACC?style=plastic&logo=wechat&logoColor=white)](https://github.com/yaotingwangofficial/Awesome-MCoT/issues/2)
 ### Updates
 > 2025-03-18: We release the Awesome-MCoT repo and survey.
