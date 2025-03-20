@@ -401,8 +401,7 @@ To fill this gap, we present [**_the first systematic survey of MCoT reasoning_*
 
 + [**Both Ears Wide Open: Towards Language-Driven Spatial Audio Generation**](https://arxiv.org/abs/2410.10676) [![Paper](https://img.shields.io/badge/ICLR-8A2BE2)]() [![Star](https://img.shields.io/github/stars/PeiwenSun2000/Both-Ears-Wide-Open.svg?style=social&label=Star)](https://github.com/PeiwenSun2000/Both-Ears-Wide-Open) <!-- 02-25 -->
 
-+ [**Leveraging Chain of Thought towards Empathetic Spoken Dialogue without Corresponding Qu
-estion-Answering Data**](https://arxiv.org/abs/2501.10937) [![Paper](https://img.shields.io/badge/ICASSP-FFC0CB)]() <!-- 01-25 -->  
++ [**Leveraging Chain of Thought towards Empathetic Spoken Dialogue without Corresponding Question-Answering Data**](https://arxiv.org/abs/2501.10937) [![Paper](https://img.shields.io/badge/ICASSP-FFC0CB)]() <!-- 01-25 -->  
 
 
 #### 2024
@@ -474,23 +473,63 @@ MCoT reasoning methodologies primarily concern the construction of rationales an
 
 1) Prompt-based MCoT reasoning employs carefully designed prompts, including instructions or in-context demonstrations, to guide models in generating rationales during inference, typically in zero-shot or few-shot settings. 
 
++ [**Leveraging Chain of Thought towards Empathetic Spoken Dialogue without Corresponding Question-Answering Data**](https://arxiv.org/abs/2501.10937) [![Paper](https://img.shields.io/badge/ICASSP-FFC0CB)]() <!-- 01-25 -->  
+
++ [**Let's Think Frame by Frame with VIP: A Video Infilling and Prediction Dataset for Evaluating Video Chain-of-Thought**](https://arxiv.org/abs/2305.13903) [![Paper](https://img.shields.io/badge/EMNLP-191970)]() [![Star](https://img.shields.io/github/stars/vaishnaviHimakunthala/VIP.svg?style=social&label=Star)](https://github.com/vaishnaviHimakunthala/VIP)  <!-- 11-23 -->
+
+
 2) Plan-based MCoT reasoning enables models to dynamically explore and refine thoughts during the reasoning process. 
+
++ [**A Picture Is Worth a Graph: A Blueprint Debate Paradigm for Multimodal Reasoning**](https://arxiv.org/abs/2403.14972) [![Paper](https://img.shields.io/badge/ACMMM-FFFF00)]() [![Star](https://img.shields.io/github/stars/thecharm/BDoG.svg?style=social&label=Star)](https://github.com/thecharm/BDoG) <!-- 08-24 -->
+
++ [**Soft-Prompting with Graph-of-Thought for Multi-modal Representation Learning**](https://aclanthology.org/2024.lrec-main.1306/) [![Paper](https://img.shields.io/badge/COLING-191970)]()  <!-- 05-24 -->
+
++ [**MultiModal Tree of Thoughts**](https://github.com/kyegomez/MultiModal-ToT)  <!-- 05-23 -->
 
 3) Learning-based MCoT reasoning embeds rationale construction within the training or fine-tuning process, requiring models to explicitly learn reasoning skills alongside multimodal inputs. 
 
++ [**Let's Think Outside the Box: Exploring Leap-of-Thought in Large Language Models with Creative Humor Generation**](https://arxiv.org/abs/2312.02439) [![Paper](https://img.shields.io/badge/CVPR-8A2BE2)]() [![Star](https://img.shields.io/github/stars/sail-sg/CLoT.svg?style=social&label=Star)](https://github.com/sail-sg/CLoT) 
+
+
++ [**Multimodal Chain-of-Thought Reasoning in Language Models**](https://arxiv.org/abs/2302.00923) [![Paper](https://img.shields.io/badge/TMLR-FFA07A)]() [![Star](https://img.shields.io/github/stars/amazon-science/mm-cot.svg?style=social&label=Star)](https://github.com/amazon-science/mm-cot) 
+
+
+
+
 
 ## Structural Reasoning
-
+The proposed structural reasoning framework aims to enhance the controllability and interpretability of the rationale generation process. The structured formats can be categorized into three types: asynchronous modality modeling, defined procedure staging, and autonomous procedure staging
 <p align="center">
   <img src="assets/mcot_method_Structural_Reasoning.png" width="100%">
 </p>
 
++ [**Emma-X: An Embodied Multimodal Action Model with Grounded Chain of Thought and Look-ahead Spatial Reasoning**](https://arxiv.org/abs/2412.11974) [![Paper](https://img.shields.io/badge/arXiv-b22222)]() [![Star](https://img.shields.io/github/stars/declare-lab/Emma-X.svg?style=social&label=Star)](https://github.com/declare-lab/Emma-X) <!-- 12-24 -->
+
++ [**Thinking Before Looking: Improving Multimodal LLM Reasoning via Mitigating Visual Hallucination**](https://arxiv.org/abs/2411.12591) [![Paper](https://img.shields.io/badge/arXiv-b22222)]() [![Star](https://img.shields.io/github/stars/Terry-Xu-666/visual_inference_chain.svg?style=social&label=Star)](https://github.com/Terry-Xu-666/visual_inference_chain) <!-- 11-24 -->
+
++ [**DetToolChain: A New Prompting Paradigm to Unleash Detection Ability of MLLM**](https://arxiv.org/abs/2403.12488) [![Paper](https://img.shields.io/badge/ECCV-1e90ff)]()  [![Star](https://img.shields.io/github/stars/yixuan730/DetToolChain.svg?style=social&label=Star)](https://github.com/yixuan730/DetToolChain) <!-- 07-24 -->
+
++ [**Cantor: Inspiring Multimodal Chain-of-Thought of MLLM**](https://arxiv.org/abs/2404.16033) [![Paper](https://img.shields.io/badge/arXiv-b22222)]() [![Star](https://img.shields.io/github/stars/ggg0919/cantor.svg?style=social&label=Star)](https://github.com/ggg0919/cantor) <!-- 04-24 -->
+
+
+
 
 ## Information Enhancing
+Enhancing multimodal inputs facilitates comprehensive reasoning through the integration of expert tools and internal or external knowledge.
 
 <p align="center">
   <img src="assets/mcot_method_Information_Enhancing.png" width="100%">
 </p>
+
++ [**Compositional Chain-of-Thought Prompting for Large Multimodal Models**](https://arxiv.org/abs/2311.17076) [![Paper](https://img.shields.io/badge/CVPR-8A2BE2)]() [![Star](https://img.shields.io/github/stars/chancharikmitra/CCoT.svg?style=social&label=Star)](https://github.com/chancharikmitra/CCoT)
+
++ [**AR-MCTS: Progressive Multimodal Reasoning via Active Retrieval**](https://arxiv.org/abs/2412.14835) [![Paper](https://img.shields.io/badge/arXiv-b22222)]() <!-- 12-24 -->  
+
++ [**DetToolChain: A New Prompting Paradigm to Unleash Detection Ability of MLLM**](https://arxiv.org/abs/2403.12488) [![Paper](https://img.shields.io/badge/ECCV-1e90ff)]()  [![Star](https://img.shields.io/github/stars/yixuan730/DetToolChain.svg?style=social&label=Star)](https://github.com/yixuan730/DetToolChain) <!-- 07-24 -->
+
++ [**Chain of Images for Intuitively Reasoning**](https://arxiv.org/abs/2311.09241) [![Paper](https://img.shields.io/badge/arXiv-b22222)]()  [![Star](https://img.shields.io/github/stars/GraphPKU/CoI.svg?style=social&label=Star)](https://github.com/GraphPKU/CoI) <!-- 11-23 -->
+
+
 
 
 ## Objective Granularity
@@ -501,12 +540,23 @@ MCoT reasoning methodologies primarily concern the construction of rationales an
 
 + [**Grounded Chain-of-Thought for Multimodal Large Language Models**](https://arxiv.org/abs/2503.12799) [![Paper](https://img.shields.io/badge/arXiv-b22222)]()  <!-- 03-25 -->
 
++ [**Can Textual Semantics Mitigate Sounding Object Segmentation Preference?**](https://arxiv.org/abs/2407.10947) [![Paper](https://img.shields.io/badge/ECCV-1e90ff)]() [![Star](https://img.shields.io/github/stars/GeWu-Lab/Sounding-Object-Segmentation-Preference.svg?style=social&label=Star)](https://github.com/GeWu-Lab/Sounding-Object-Segmentation-Preference) <!-- 07-24 -->
+
++ [**Chain-of-Spot: Interactive Reasoning Improves Large Vision-Language Models**](https://arxiv.org/abs/2403.12966) [![Paper](https://img.shields.io/badge/arXiv-b22222)]() [![Star](https://img.shields.io/github/stars/dongyh20/Chain-of-Spot.svg?style=social&label=Star)](https://github.com/dongyh20/Chain-of-Spot)  <!-- 03-24 -->
+
 
 ## Multimodal Relationale
-
+The reasoning processes adopt either text-only or multimodal rationales. 
 <p align="center">
   <img src="assets/mcot_method_multimodal_rationale.png" width="100%">
 </p>
+
++ [**Imagine while Reasoning in Space: Multimodal Visualization-of-Thought**](https://arxiv.org/abs/2501.07542) [![Paper](https://img.shields.io/badge/arXiv-b22222)]() <!-- 01-25 -->
+
++ [**Generate Subgoal Images before Act: Unlocking the Chain-of-Thought Reasoning in Diffusion Model for Robot Manipulation with Multimodal Prompts**](https://openaccess.thecvf.com/content/CVPR2024/papers/Ni_Generate_Subgoal_Images_before_Act_Unlocking_the_Chain-of-Thought_Reasoning_in_CVPR_2024_paper.pdf) [![Paper](https://img.shields.io/badge/CVPR-8A2BE2)]()   <!-- 12-24 -->
+
++ [**T-SciQ: Teaching Multimodal Chain-of-Thought Reasoning via Mixed Large Language Model Signals for Science Question Answering**](https://arxiv.org/abs/2305.03453) [![Paper](https://img.shields.io/badge/arXiv-b22222)]() [![Star](https://img.shields.io/github/stars/T-SciQ/T-SciQ.svg?style=social&label=Star)](https://github.com/T-SciQ/T-SciQ)  <!-- 12-23 -->
+
 
 
 ## Test-time Scaling
