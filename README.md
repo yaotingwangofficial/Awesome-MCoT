@@ -2,6 +2,11 @@
 <h2 align="center">Multimodal Chain-of-Thought Reasoning: A Comprehensive Survey</h2>
 <!-- <h1 align="center">Awesome-MCoT</h1> -->
 
+[![arXiv](https://img.shields.io/badge/arXiv-2503.12605-b31b1b?style=plastic&logo=arxiv)](https://arxiv.org/abs/2503.12605)
+[![Maintenance](https://img.shields.io/badge/Maintenance-FF9800?style=plastic&logo=maintenance&logoColor=white)](https://github.com/yaotingwangofficial/Awesome-MCoT/issues/1)
+[![Discussion](https://img.shields.io/badge/Discussion-Open-brightgreen?style=plastic&logo=discussion&logoColor=white)](https://github.com/yaotingwangofficial/Awesome-MCoT/discussions)
+[![WeChat](https://img.shields.io/badge/WeChat-007ACC?style=plastic&logo=wechat&logoColor=white)](https://github.com/yaotingwangofficial/Awesome-MCoT/issues/4)
+
 # 🎇 Introduction
 
 Multimodal chain-of-thought (MCoT) reasoning has garnered attention for its ability to enhance ***step-by-step*** reasoning in multimodal contexts, particularly within multimodal large language models (MLLMs). Current MCoT research explores various methodologies to address the challenges posed by images, videos, speech, audio, 3D data, and structured data, achieving success in fields such as robotics, healthcare, and autonomous driving. However, despite these advancements, the field lacks a comprehensive review that addresses the numerous remaining challenges.
@@ -9,14 +14,15 @@ Multimodal chain-of-thought (MCoT) reasoning has garnered attention for its abil
 To fill this gap, we present [**_the first systematic survey of MCoT reasoning_**](https://arxiv.org/abs/2503.12605), elucidating the foundational concepts and definitions pertinent to this area. Our work includes a detailed taxonomy and an analysis of existing methodologies across different applications, as well as insights into current challenges and future research directions aimed at fostering the development of multimodal reasoning.
 
 <p align="center">
-  <img src="assets/mcot_tasks.png" width="60%">
+  <img src="assets/cover-teasure-map.png" width="95%">
 </p>
 
+
+
 ---
-[![arXiv](https://img.shields.io/badge/arXiv-2503.12605-b31b1b?style=plastic&logo=arxiv)](https://arxiv.org/abs/2503.12605)
-[![Maintenance](https://img.shields.io/badge/Maintenance-FF9800?style=plastic&logo=maintenance&logoColor=white)](https://github.com/yaotingwangofficial/Awesome-MCoT/issues/1)
-[![Discussion](https://img.shields.io/badge/Discussion-Open-brightgreen?style=plastic&logo=discussion&logoColor=white)](https://github.com/yaotingwangofficial/Awesome-MCoT/discussions)
-[![WeChat](https://img.shields.io/badge/WeChat-007ACC?style=plastic&logo=wechat&logoColor=white)](https://github.com/yaotingwangofficial/Awesome-MCoT/issues/4)
+
+
+
 ### Updates
 > 2025-03-18: We release the Awesome-MCoT repo and survey.
 
@@ -101,6 +107,37 @@ To fill this gap, we present [**_the first systematic survey of MCoT reasoning_*
 | MME-CoT                   | 2025 | VQA               | Science, Math, Common| T, I     | MC and Open    | 1,130     |
 | EMMA                      | 2025 | VQA               | Science              | T, I     | MC and Open    | 2,788     |
 | VisualProcessBench        | 2025 | ScienceQA         | Math, Science        | T, I     | MC and Open    | 2,866     |
+
+
+
+---
+
+
+
+# 🎊 Multimodal Reasoning via RL
+* The following table concludes the techniques used by MLLMs with RL for better long-MCoT reasoning, where "T", "I", "V", and "A" represent Text, Image, Video, and Audio, respectively.
+* In summary, RL unlocks complex reasoning and `aha-moment` without SFT, demonstrating its potential to enhance model capabilities through iterative self-improvement and rule-based approaches, ultimately paving the way for more advanced and autonomous multimodal reasoning systems.
+
+| Model                  | Foundational LLMs | Modality              | Learning               | Cold Start | Algorithm         | Aha-moment   |
+|:---------------------------:|:------:|:-------------------:|:----------------------:|:----------:|:----------------:|:-----------:|
+| [Deepseek-R1-Zero](https://github.com/deepseek-ai/DeepSeek-R1)                      | Deepseek-V3 | T               | RL               | ❌   | GRPO             | ✅    |
+| [Deepseek-R1](https://github.com/deepseek-ai/DeepSeek-R1)                     | Deepseek-V3 | T               | SFT+RL               | ✅    | GRPO             | -   |
+| [LLaVA-Reasoner](https://github.com/RifleZhang/LLaVA-Reasoner-DPO)                        | LLaMA3-LLaVA-NEXT-8B | T,I               | SFT+RL               | ✅    | DPO             | -   |
+| [Insight-V](https://github.com/dongyh20/Insight-V)                      | Deepseek-V3 | T,I                | SFT+RL               | ✅    | DPO             | -   |
+| [Multimodal-Open-R1](https://github.com/EvolvingLMMs-Lab/open-r1-multimodal)                       | Qwen2-VL-7B-Instruct | T,I                | RL               | ❌   | GRPO             | ❌   |
+| [R1-OneVision](https://github.com/Fancy-MLLM/R1-Onevision)                      | Qwen2.5-VL-7B-Instruct | T,I                | SFT               | -   | -             | -   |
+| [R1-V](https://github.com/Deep-Agent/R1-V)                       | Qwen2.5-VL | T,I                | RL               | ❌   | GRPO             | ❌   |
+| [VLM-R1](https://github.com/om-ai-lab/VLM-R1)                      | Qwen2.5-VL | T,I                | RL               | ❌   | GRPO             | ❌   |
+| [LMM-R1](https://github.com/TideDra/lmm-r1)                     | Qwen2.5-VL-Instruct-3B | T,I                | RL               | ❌   | PPO             | ❌   |
+| [Curr-ReFT](https://github.com/ding523/Curr_REFT)                      | Qwen2.5-VL-3B | T,I                | RL+SFT               | ❌   | GRPO             | -   |
+| [Seg-Zero](https://github.com/dvlab-research/Seg-Zero)                      | Qwen2.5-VL-3B + SAM2 | T,I                | RL               | ❌   | GRPO             | ❌   |
+| [MM-Eureka](https://github.com/ModalMinds/MM-EUREKA)                    | InternVL2.5-Instruct-8B | T,I                | SFT+RL               | ✅  | RLOO             | -   |
+| [MM-Eureka-Zero](https://github.com/ModalMinds/MM-EUREKA)                      | InternVL2.5-Pretrained-38B | T,I                | RL               | ❌   | GRPO             | ✅    |
+| [VisualThinker-R1-Zero](https://github.com/turningpoint-ai/VisualThinker-R1-Zero)                       | Qwen2-VL-2B | T,I                | RL               | ❌   | GRPO             | ✅    |
+| [Easy-R1](https://github.com/hiyouga/EasyR1)                        | Qwen2.5-VL | T,I                | RL               | ❌   | GRPO             | -   |
+|  [Open-R1-Video](https://github.com/Wang-Xiaodong1899/Open-R1-Video)                       | Qwen2-VL-7B | T,I,V             | RL               | ❌   | GRPO             | ❌   |
+| [R1-Omni](https://github.com/HumanMLLM/R1-Omni)                      | HumanOmni-0.5B  | T,I,V,A             | SFT+RL               | ✅  | GRPO             | -  |
+
 
 ---
 <!-- CVPR-8A2BE2 -->
