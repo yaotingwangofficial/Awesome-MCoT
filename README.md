@@ -56,6 +56,13 @@ To fill this gap, we present [**_the first systematic survey of MCoT reasoning_*
   - [Objective Granularity]()
   - [Multimodal Rationale]()
   - [Test-Time Scaling]()
+- [🎨 Applications with MCoT Reasoning](#-applications-with-mcot-reasoning)
+  - [Embodied AI](#embodied-ai)
+  - [Agentic System](#agentic-system)
+  - [Autonomous Driving](#autonomous-driving)
+  - [Medical and Healthcare](#medical-and-healthcare)
+  - [Social and Human](#social-and-human)
+  - [Multimodal Generation](#multimodal-generation)
 - [🚀 Useful Links](#-useful-links)
 - [❤️ Citation](#%EF%B8%8F-citation)
 - [⭐️ Star History](#%EF%B8%8F-star-history)
@@ -449,21 +456,55 @@ estion-Answering Data**](https://arxiv.org/abs/2501.10937) [![Paper](https://img
 
 ## Retionale Construction
 
+MCoT reasoning methodologies primarily concern the construction of rationales and can be categorized into three distinct types: prompt-based, plan-based, and learning-based methods:
+<p align="center">
+  <img src="assets/mcot_method_relationale_construction.png" width="100%">
+</p>
+
+1) Prompt-based MCoT reasoning employs carefully designed prompts, including instructions or in-context demonstrations, to guide models in generating rationales during inference, typically in zero-shot or few-shot settings. 
+
+2) Plan-based MCoT reasoning enables models to dynamically explore and refine thoughts during the reasoning process. 
+
+3) Learning-based MCoT reasoning embeds rationale construction within the training or fine-tuning process, requiring models to explicitly learn reasoning skills alongside multimodal inputs. 
+
 
 ## Structural Reasoning
+
+<p align="center">
+  <img src="assets/mcot_method_Structural_Reasoning.png" width="100%">
+</p>
 
 
 ## Information Enhancing
 
+<p align="center">
+  <img src="assets/mcot_method_Information_Enhancing.png" width="100%">
+</p>
+
 
 ## Objective Granularity
+
+<p align="center">
+  <img src="assets/mcot_method_Object_Granularity.png" width="100%">
+</p>
 
 
 ## Multimodal Relationale
 
+<p align="center">
+  <img src="assets/mcot_method_multimodal_rationale.png" width="100%">
+</p>
+
 
 ## Test-time Scaling
 
+<p align="center">
+  <img src="assets/mcot_method_Time_Scaling.png" width="100%">
+</p>
+
+
+
+---
 
 
 # 🎨 Applications with MCoT Reasoning
@@ -471,15 +512,78 @@ estion-Answering Data**](https://arxiv.org/abs/2501.10937) [![Paper](https://img
 
 ## Embodied AI
 
++ [**Robotic Control via Embodied Chain-of-Thought Reasoning**](https://arxiv.org/pdf/2407.08693) [![Paper](https://img.shields.io/badge/arxiv-b22222)]() [![Star](https://img.shields.io/github/stars/MichalZawalski/embodied-CoT.svg?style=social&label=Star)](https://github.com/MichalZawalski/embodied-CoT/) <!-- 03-25 -->
+
++ [**Enhancing Multi-Robot Semantic Navigation Through Multimodal Chain-of-Thought Score Collaboration**](https://arxiv.org/abs/2412.18292) [![Paper](https://img.shields.io/badge/arxiv-b22222)]() [![Star](https://img.shields.io/github/stars/FrankZxShen/MCoCoNav.svg?style=social&label=Star)](https://github.com/FrankZxShen/MCoCoNav) <!-- 03-25 -->
+
++ [**SpatialCoT: Advancing Spatial Reasoning through Coordinate Alignment and Chain-of-Thought for Embodied Task Planning**](https://arxiv.org/abs/2501.10074) [![Paper](https://img.shields.io/badge/arxiv-b22222)]() <!-- 01-25 -->
+
++ [**Memory-Driven Multimodal Chain of Thought for Embodied Long-Horizon Task Planning**](https://openreview.net/forum?id=Z1Va3Ue4GF&noteId=Apa0c3T6mm) <!-- 01-24 -->
+
++ [**OOTDiffusion: Outfitting Fusion based Latent Diffusion for Controllable Virtual Try-on**](https://arxiv.org/abs/2403.01779) [![Paper](https://img.shields.io/badge/AAAI-c71585)]() [![Star](https://img.shields.io/github/stars/levihsu/OOTDiffusion.svg?style=social&label=Star)](https://github.com/levihsu/OOTDiffusion) <!-- 03-24 -->
+
++ [**ManipLLM: Embodied Multimodal Large Language Model for Object-Centric Robotic Manipulation**](https://openaccess.thecvf.com/content/CVPR2024/papers/Li_ManipLLM_Embodied_Multimodal_Large_Language_Model_for_Object-Centric_Robotic_Manipulation_CVPR_2024_paper.pdf) [![Paper](https://img.shields.io/badge/CVPR-8A2BE2)]() [![Star](https://img.shields.io/github/stars/clorislili/ManipLLM.svg?style=social&label=Star)](https://github.com/clorislili/ManipLLM) <!-- 12-23 -->
+
++ [**EmbodiedGPT: Vision-Language Pre-Training via Embodied Chain of Thought**](https://arxiv.org/abs/2305.15021) [![Paper](https://img.shields.io/badge/NIPS-CD5C5C)]() [![Star](https://img.shields.io/github/stars/EmbodiedGPT/EmbodiedGPT_Pytorch.svg?style=social&label=Star)](https://github.com/EmbodiedGPT/EmbodiedGPT_Pytorch) <!-- 09-23 -->
+
+
+
+
 ## Agentic System
+
++ [**SmartAgent: Chain-of-User-Thought for Embodied Personalized Agent in Cyber World**](https://arxiv.org/abs/2412.07472) [![Paper](https://img.shields.io/badge/arxiv-b22222)]() [![Star](https://img.shields.io/github/stars/tsinghua-fib-lab/SmartAgent.svg?style=social&label=Star)](https://github.com/tsinghua-fib-lab/SmartAgent) <!-- 02-25 -->
+
+
++ [**DreamFactory: Pioneering Multi-Scene Long Video Generation with a Multi-Agent Framework**](https://arxiv.org/abs/2408.11788) [![Paper](https://img.shields.io/badge/arXiv-b22222)]()   <!-- 08-24 -->
+
++ [**You Only Look at Screens: Multimodal Chain-of-Action Agents**](https://arxiv.org/abs/2309.11436) [![Paper](https://img.shields.io/badge/ACL-191970)]() [![Star](https://img.shields.io/github/stars/cooelf/Auto-GUI.svg?style=social&label=Star)](https://github.com/cooelf/Auto-GUI) <!-- 06-24 -->
+
++ [**VideoAgent: Long-form Video Understanding with Large Language Model as Agent**](https://arxiv.org/abs/2403.10517) [![Paper](https://img.shields.io/badge/ECCV-1e90ff)]() [![Star](https://img.shields.io/github/stars/wxh1996/VideoAgent.svg?style=social&label=Star)](https://github.com/wxh1996/VideoAgent) <!-- 03-24 -->
+
+
++ [**OpenManus: An open-source framework for building general AI agents**](https://github.com/henryalps/OpenManus)
+
+
+
 
 ## Autonomous Driving
 
++ [**Sce2DriveX: A Generalized MLLM Framework for Scene-to-Drive Learning**](https://arxiv.org/abs/2502.14917) [![Paper](https://img.shields.io/badge/arxiv-b22222)]() <!-- 02-25 -->
+
++ [**PKRD-CoT: A Unified Chain-of-thought Prompting for Multi-Modal Large Language Models in Autonomous Driving**](https://arxiv.org/abs/2412.02025) [![Paper](https://img.shields.io/badge/arxiv-b22222)]() <!-- 12-24 -->
+
++ [**Learning Autonomous Driving Tasks via Human Feedbacks with Large Language Models**](https://aclanthology.org/2024.findings-emnlp.287/) [![Paper](https://img.shields.io/badge/EMNLP-191970)]() <!-- 11-24 -->
+
++ [**Reason2Drive: Towards Interpretable and Chain-based Reasoning for Autonomous Driving**](https://arxiv.org/abs/2312.03661) [![Paper](https://img.shields.io/badge/arxiv-b22222)]() [![Star](https://img.shields.io/github/stars/fudan-zvg/Reason2Drive.svg?style=social&label=Star)](https://github.com/fudan-zvg/Reason2Drive) <!-- 07-24 -->
+
++ [**Receive, Reason, and React: Drive as You Say with Large Language Models in Autonomous Vehicles**](https://arxiv.org/abs/2310.08034) [![Paper](https://img.shields.io/badge/arxiv-b22222)]()  <!-- 12-24 -->
+
++ [**DriveCoT: Integrating Chain-of-Thought Reasoning with End-to-End Driving**](https://arxiv.org/abs/2403.16996) [![Paper](https://img.shields.io/badge/arxiv-b22222)]()  <!-- 03-24 -->
+
+
+
 ## Medical and Healthcare
+
++ [**MedVLM-R1: Incentivizing Medical Reasoning Capability of Vision-Language Models (VLMs) via Reinforcement Learning**](https://arxiv.org/abs/2502.19634) [![Paper](https://img.shields.io/badge/arxiv-b22222)]() <!-- 02-25 -->
+
++ [**MedCoT: Medical Chain of Thought via Hierarchical Expert**](https://aclanthology.org/2024.emnlp-main.962/) [![Paper](https://img.shields.io/badge/EMNLP-191970)]() [![Star](https://img.shields.io/github/stars/JXLiu-AI/MedCoT.svg?style=social&label=Star)](https://github.com/JXLiu-AI/MedCoT) <!-- 12-24 -->
+
++ [**Interpretable Video based Stress Detection with Self-Refine Chain-of-thought Reasoning**](https://arxiv.org/abs/2410.09449) [![Paper](https://img.shields.io/badge/arxiv-b22222)]()  <!-- 11-24 -->
+
+
++ [**TI-PREGO: Chain of Thought and In-Context Learning for Online Mistake Detection in PRocedural EGOcentric Videos**](https://arxiv.org/abs/2411.02570) [![Paper](https://img.shields.io/badge/arxiv-b22222)]()  <!-- 11-24 -->
+
+
++ [**Open Set Video HOI detection from Action-centric Chain-of-Look Prompting**](https://openaccess.thecvf.com/content/ICCV2023/papers/Xi_Open_Set_Video_HOI_detection_from_Action-Centric_Chain-of-Look_Prompting_ICCV_2023_paper.pdf) [![Paper](https://img.shields.io/badge/ICCV-00CED1)]() <!-- 02-23 -->
+
 
 
 ## Social and Human
 
++ [*Multimodal PEAR Chain-of-Thought Reasoning for Multimodal Sentiment Analysis**](https://dl.acm.org/doi/10.1145/3672398) [![Paper](https://img.shields.io/badge/TMCCA-b22222)]()  <!-- 09-24 -->
+
+
++ [*Chain of Empathy: Enhancing Empathetic Response of Large Language Models Based on Psychotherapy Models**](https://arxiv.org/abs/2311.04915) [![Paper](https://img.shields.io/badge/arxiv-b22222)]()  <!-- 09-24 -->
 
 
 ## Multimodal Generation
