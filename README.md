@@ -565,7 +565,21 @@ The reasoning processes adopt either text-only or multimodal rationales.
   <img src="assets/mcot_method_Time_Scaling.png" width="100%">
 </p>
 
++ [**VisualPRM: An Effective Process Reward Model for Multimodal Reasoning**](https://arxiv.org/abs/2503.10291) [![Paper](https://img.shields.io/badge/arXiv-b22222)]()  [![Star](https://img.shields.io/badge/HuggingFace-FFD700)](https://huggingface.co/OpenGVLab/VisualPRM-8B) <!-- 03-25 -->
 
++ [**R1-Zero's "Aha Moment" in Visual Reasoning on a 2B Non-SFT Model**](https://arxiv.org/abs/2503.05132) [![Paper](https://img.shields.io/badge/arXiv-b22222)]()  [![Star](https://img.shields.io/github/stars/turningpoint-ai/VisualThinker-R1-Zero.svg?style=social&label=Star)](https://github.com/turningpoint-ai/VisualThinker-R1-Zero)  <!-- 03-25 -->
+
++ [**Boosting Multimodal Reasoning with MCTS-Automated Structured Thinking**](https://arxiv.org/abs/2502.02339) [![Paper](https://img.shields.io/badge/arXiv-b22222)]()  <!-- 02-25 -->
+
++ [**QwQ: Reflect Deeply on the Boundaries of the Unknown**](https://qwenlm.github.io/blog/qwq-32b-preview/)  <!-- 01-25 -->
+
++ [**Open R1 Video**](https://github.com/Wang-Xiaodong1899/Open-R1-Video) [![Star](https://img.shields.io/github/stars/Wang-Xiaodong1899/Open-R1-Video.svg?style=social&label=Star)](https://github.com/Wang-Xiaodong1899/Open-R1-Video)   <!-- 01-25 -->
+
++ [**RedStar: Does Scaling Long-CoT Data Unlock Better Slow-Reasoning Systems?**](https://arxiv.org/abs/2501.11284) [![Paper](https://img.shields.io/badge/arXiv-b22222)]()  [![Star](https://img.shields.io/badge/HuggingFace-FFD700)](https://huggingface.co/RedStar-Reasoning) <!-- 01-25 -->
+
++ [**Diving into Self-Evolving Training for Multimodal Reasoning**](https://arxiv.org/abs/2412.17451) [![Paper](https://img.shields.io/badge/arXiv-b22222)]()  [![Star](https://img.shields.io/github/stars/hkust-nlp/mstar.svg?style=social&label=Star)](https://github.com/hkust-nlp/mstar)  <!-- 12-23 -->
+
++ [**Marco-o1: Towards Open Reasoning Models for Open-Ended Solutions**](https://arxiv.org/abs/2411.14405) [![Paper](https://img.shields.io/badge/arXiv-b22222)]() [![Star](https://img.shields.io/github/stars/AIDC-AI/Marco-o1.svg?style=social&label=Star)](https://github.com/AIDC-AI/Marco-o1)  <!-- 12-23 -->
 
 ---
 
