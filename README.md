@@ -49,14 +49,7 @@ To fill this gap, we present [**_the first systematic survey of MCoT reasoning_*
   - [MCoT Reasoning Over Audio and Speech](#mcot-reasoning-over-audio-and-speech) 
   - [MCoT Reasoning Over Table and Chart](#mcot-reasoning-over-table-and-chart) 
   - [Cross-modal CoT Reasoning](#cross-modal-cot-reasoning) 
-- [🔥 Multimodal Reasoning Models](#-multimodal-reasoning-models)
-  - [Image](#image)
-  - [Video](#video)
-  - [Audio](#audio)
-  - [3D](#mcot-reasoning-over-3d)
-  - [Table/Chart](#mcot-reasoning-over-table-and-chart)
-  - [Omni](#omni)
-- [MCoT Methodologies](#-mcot-methodologies)
+- [🔥 MCoT Methodologies](#-mcot-methodologies)
   - [Rationale Construction]()
   - [Structural Reasoning]()
   - [Information Enhancing]()
@@ -181,9 +174,40 @@ To fill this gap, we present [**_the first systematic survey of MCoT reasoning_*
 
 #### 2025
 
++ [**VLM-R1**](https://github.com/om-ai-lab/VLM-R1) [![Star](https://img.shields.io/github/stars/om-ai-lab/VLM-R1.svg?style=social&label=Star)](https://github.com/om-ai-lab/VLM-R1)
+
++ [**MM-Eureka: Exploring Visual Aha Moment with Rule-based Large-scale Reinforcement Learning**](https://github.com/ModalMinds/MM-EUREKA) [![Star](https://img.shields.io/github/stars/ModalMinds/MM-EUREKA.svg?style=social&label=Star)](https://github.com/ModalMinds/MM-EUREKA)
+
+
++ [**R1-Onevision: Advancing Generalized Multimodal Reasoning through Cross-Modal Formalization**](https://arxiv.org/abs/2503.10615) [![Paper](https://img.shields.io/badge/arXiv-b22222)]()  [![Star](https://img.shields.io/github/stars/Fancy-MLLM/R1-onevision.svg?style=social&label=Star)](https://github.com/Fancy-MLLM/R1-onevision)
+
++ [**LMM-R1: Empowering 3B LMMs with Strong Reasoning Abilities Through Two-Stage Rule-Based RL**](https://arxiv.org/abs/2503.07536) [![Paper](https://img.shields.io/badge/arXiv-b22222)]()  [![Star](https://img.shields.io/github/stars/TideDra/lmm-r1.svg?style=social&label=Star)](https://github.com/TideDra/lmm-r1)  <!-- 03-25 -->
+
++ [**Boosting the Generalization and Reasoning of Vision Language Models with Curriculum Reinforcement Learning**](https://arxiv.org/abs/2503.07065) [![Paper](https://img.shields.io/badge/arXiv-b22222)]()  <!-- 03-25 -->
+
++ [**R1-Zero's "Aha Moment" in Visual Reasoning on a 2B Non-SFT Model**](https://arxiv.org/abs/2503.05132) [![Paper](https://img.shields.io/badge/arXiv-b22222)]()  [![Star](https://img.shields.io/github/stars/turningpoint-ai/VisualThinker-R1-Zero.svg?style=social&label=Star)](https://github.com/turningpoint-ai/VisualThinker-R1-Zero)  <!-- 03-25 -->
+
 + [**CreatiLayout: Siamese Multimodal Diffusion Transformer for Creative Layout-to-Image Generation**](https://arxiv.org/abs/2412.03859) [![Paper](https://img.shields.io/badge/arXiv-b22222)]()  [![Star](https://img.shields.io/github/stars/HuiZhang0812/CreatiLayout.svg?style=social&label=Star)](https://github.com/HuiZhang0812/CreatiLayout) <!-- 03-25 -->
 
++ [**Seg-Zero: Reasoning-Chain Guided Segmentation via Cognitive Reinforcement**](https://arxiv.org/abs/2503.06520) [![Paper](https://img.shields.io/badge/arXiv-b22222)]()  [![Star](https://img.shields.io/github/stars/dvlab-research/Seg-Zero.svg?style=social&label=Star)](https://github.com/dvlab-research/Seg-Zero) <!-- 03-25 -->
+
 + [**Sketch-of-Thought: Efficient LLM Reasoning with Adaptive Cognitive-Inspired Sketching**](https://arxiv.org/abs/2503.05179) [![Paper](https://img.shields.io/badge/arXiv-b22222)]() [![Star](https://img.shields.io/github/stars/SimonAytes/SoT.svg?style=social&label=Star)](https://github.com/SimonAytes/SoT)  
+
++ [**Boosting Multimodal Reasoning with MCTS-Automated Structured Thinking**](https://arxiv.org/abs/2502.02339) [![Paper](https://img.shields.io/badge/arXiv-b22222)]()  <!-- 02-25 -->
+
++ [**Virgo: A Preliminary Exploration on Reproducing o1-like MLLM**](https://arxiv.org/abs/2501.01904) [![Paper](https://img.shields.io/badge/arXiv-b22222)]()  [![Star](https://img.shields.io/github/stars/RUCAIBox/Virgo.svg?style=social&label=Star)](https://github.com/RUCAIBox/Virgo) <!-- 02-25 -->
+
++ [**LLaVA-CoT: Let Vision Language Models Reason Step-by-Step**](https://arxiv.org/abs/2411.10440) [![Paper](https://img.shields.io/badge/arXiv-b22222)]()  [![Star](https://img.shields.io/github/stars/PKU-YuanGroup/LLaVA-CoT.svg?style=social&label=Star)](https://github.com/PKU-YuanGroup/LLaVA-CoT) <!-- 02-25 -->
+
++ [**Multimodal Open R1**](https://github.com/EvolvingLMMs-Lab/open-r1-multimodal) [![Star](https://img.shields.io/github/stars/EvolvingLMMs-Lab/open-r1-multimodal.svg?style=social&label=Star)](https://github.com/EvolvingLMMs-Lab/open-r1-multimodal) <!-- 01-25 -->
+
++ [**Easy-R1**](https://github.com/hiyouga/EasyR1) [![Star](https://img.shields.io/github/stars/hiyouga/EasyR1.svg?style=social&label=Star)](https://github.com/hiyouga/EasyR1)
+
++ [**R1V**](https://github.com/Deep-Agent/R1-V) [![Star](https://img.shields.io/github/stars/Deep-Agent/R1-V.svg?style=social&label=Star)](https://github.com/Deep-Agent/R1-V)
+
++ [**RedStar: Does Scaling Long-CoT Data Unlock Better Slow-Reasoning Systems?**](https://arxiv.org/abs/2501.11284) [![Paper](https://img.shields.io/badge/arXiv-b22222)]()  [![Star](https://img.shields.io/badge/HuggingFace-FFD700)](https://huggingface.co/RedStar-Reasoning) <!-- 01-25 -->
+
++ [**LlamaV-o1: Rethinking Step-by-step Visual Reasoning in LLMs**](https://arxiv.org/abs/2501.06186) [![Paper](https://img.shields.io/badge/arXiv-b22222)]()  [![Star](https://img.shields.io/github/stars/mbzuai-oryx/LlamaV-o1.svg?style=social&label=Star)](https://github.com/mbzuai-oryx/LlamaV-o1) <!-- 01-25 -->
 
 + [**RelationLMM: Large Multimodal Model as Open and Versatile Visual Relationship Generalist**](https://ieeexplore.ieee.org/document/10845195) [![Paper](https://img.shields.io/badge/TPAMI-FFA07A)]() <!-- 01-25 -->
 
@@ -195,9 +219,17 @@ To fill this gap, we present [**_the first systematic survey of MCoT reasoning_*
 
 #### 2024
 
++ [**Mulberry: Empowering MLLM with o1-like Reasoning and Reflection via Collective Monte Carlo Tree Search**](https://arxiv.org/abs/2412.18319) [![Paper](https://img.shields.io/badge/arXiv-b22222)]()  [![Star](https://img.shields.io/github/stars/HJYao00/Mulberry.svg?style=social&label=Star)](https://github.com/HJYao00/Mulberry) <!-- 12-24 -->
+
++ [**AR-MCTS: Progressive Multimodal Reasoning via Active Retrieval**](https://arxiv.org/abs/2412.14835) [![Paper](https://img.shields.io/badge/arXiv-b22222)]() <!-- 12-24 -->  
+
 + [**Perception Tokens Enhance Visual Reasoning in Multimodal Language Models**](https://arxiv.org/abs/2412.03548v2) [![Paper](https://img.shields.io/badge/arXiv-b22222)]() [![Star](https://img.shields.io/github/stars/mahtabbigverdi/Aurora.svg?style=social&label=Star)](https://github.com/mahtabbigverdi/Aurora/tree/main) <!-- 12-24 -->
 
 + [**PKRD-CoT: A Unified Chain-of-thought Prompting for Multi-Modal Large Language Models in Autonomous Driving**](https://arxiv.org/abs/2412.02025) [![Paper](https://img.shields.io/badge/ICONIP-2F4F4F)]() <!-- 12-24 -->
+
++ [**MAmmoTH-VL: Eliciting Multimodal Reasoning with Instruction Tuning at Scale**](https://arxiv.org/abs/2412.05237) [![Paper](https://img.shields.io/badge/arXiv-b22222)]()  [![Star](https://img.shields.io/github/stars/MAmmoTH-VL/MAmmoTH-VL.svg?style=social&label=Star)](https://github.com/MAmmoTH-VL/MAmmoTH-VL) <!-- 12-24 -->
+
++ [**Insight-V: Exploring Long-Chain Visual Reasoning with Multimodal Large Language Models**](https://arxiv.org/abs/2411.14432) [![Paper](https://img.shields.io/badge/arXiv-b22222)]()  [![Star](https://img.shields.io/github/stars/dongyh20/Insight-V.svg?style=social&label=Star)](https://github.com/dongyh20/Insight-V) <!-- 11-24 -->
 
 + [**Visual Sketchpad: Sketching as a Visual Chain of Thought for Multimodal Language Models**](https://arxiv.org/abs/2406.09403) [![Paper](https://img.shields.io/badge/NIPS-CD5C5C)]()  [![Star](https://img.shields.io/github/stars/Yushi-Hu/VisualSketchpad.svg?style=social&label=Star)](https://github.com/Yushi-Hu/VisualSketchpad)  <!-- 11-24 -->
 
@@ -207,11 +239,15 @@ To fill this gap, we present [**_the first systematic survey of MCoT reasoning_*
 
 + [**PS-CoT-Adapter: adapting plan-and-solve chain-of-thought for ScienceQA**](https://link.springer.com/article/10.1007/s11432-024-4211-9) [![Paper](https://img.shields.io/badge/SCIC-2F4F4F)]() [![Star](https://img.shields.io/github/stars/Sunhxxin/PS-CoT-Adapter.svg?style=social&label=Star)](https://github.com/Sunhxxin/PS-CoT-Adapter)  <!-- 11-24 -->
 
++ [**Improve Vision Language Model Chain-of-thought Reasoning**](https://arxiv.org/abs/2410.16198) [![Paper](https://img.shields.io/badge/arXiv-b22222)]()  [![Star](https://img.shields.io/github/stars/RifleZhang/LLaVA-Reasoner-DPO.svg?style=social&label=Star)](https://github.com/RifleZhang/LLaVA-Reasoner-DPO) <!-- 10-24 -->
+
 + [**Mind's Eye of LLMs: Visualization-of-Thought Elicits Spatial Reasoning in Large Language Models**](https://arxiv.org/abs/2404.03622) [![Paper](https://img.shields.io/badge/NIPS-CD5C5C)]()  [![Star](https://img.shields.io/github/stars/sitloboi2012/Visualization-of-Thought.svg?style=social&label=Star)](https://github.com/sitloboi2012/Visualization-of-Thought) <!-- 10-24 -->
 
 + [**R-CoT: Reverse Chain-of-Thought Problem Generation for Geometric Reasoning in Large Multimodal Models**](https://arxiv.org/abs/2410.17885) [![Paper](https://img.shields.io/badge/arXiv-b22222)]() [![Star](https://img.shields.io/github/stars/dle666/r-cot.svg?style=social&label=Star)](https://github.com/dle666/r-cot) <!-- 10-24 -->
 
 + [**DCoT: Dual Chain-of-Thought Prompting for Large Multimodal Models**](https://openreview.net/forum?id=0saecDOdh2) [![Paper](https://img.shields.io/badge/ACML-808080)]() <!-- 10-24 -->
+
++ [**Visual-O1: Understanding Ambiguous Instructions via Multi-modal Multi-turn Chain-of-thoughts Reasoning**](https://arxiv.org/abs/2410.03321) [![Paper](https://img.shields.io/badge/ICLR-32CD32)]()  [![Star](https://img.shields.io/github/stars/kodenii/Visual-O1.svg?style=social&label=Star)](https://github.com/kodenii/Visual-O1) <!-- 10-24 -->
 
 + [**Chain-of-Exemplar: Enhancing Distractor Generation for Multimodal Educational Question Generation**](https://aclanthology.org/2024.acl-long.432/) [![Paper](https://img.shields.io/badge/ACL-191970)]() [![Star](https://img.shields.io/github/stars/Luohh5/Chain-of-Exemplar.svg?style=social&label=Star)](https://github.com/Luohh5/Chain-of-Exemplar)  <!-- 08-24 -->
 
@@ -276,6 +312,8 @@ To fill this gap, we present [**_the first systematic survey of MCoT reasoning_*
 
 #### 2025
 
++ [**Video-R1: Towards Super Reasoning Ability in Video Understanding**](https://github.com/tulerfeng/Video-R1) [![Star](https://img.shields.io/github/stars/tulerfeng/Video-R1.svg?style=social&label=Star)](https://github.com/tulerfeng/Video-R1)
+
 + [**CoS: Chain-of-Shot Prompting for Long Video Understanding**](https://arxiv.org/abs/2502.06428) [![Paper](https://img.shields.io/badge/arXiv-b22222)]() [![Star](https://img.shields.io/github/stars/lwpyh/CoS_codes.svg?style=social&label=Star)](https://github.com/lwpyh/CoS_codes)   <!-- 02-25 -->
   
 + [**Following Clues, Approaching the Truth: Explainable Micro-Video Rumor Detection via Chain-of-Thought Reasoning**](https://openreview.net/pdf/6c509d93a31887cb5e3feaae2a453c392028dfdb.pdf) [![Paper](https://img.shields.io/badge/arXiv-b22222)]()    <!-- 01-25 -->
@@ -336,6 +374,9 @@ To fill this gap, we present [**_the first systematic survey of MCoT reasoning_*
 
 ### MCoT Reasoning Over Audio and Speech
 #### 2025
+
++ [**R1-AQA: Reinforcement Learning Outperforms Supervised Fine-Tuning: A Case Study on Audio Question Answering**](https://arxiv.org/abs/2503.11197v1)[![Paper](https://img.shields.io/badge/arXiv-b22222)]() [![Star](https://img.shields.io/github/stars/xiaomi-research/r1-aqa.svg?style=social&label=Star)](https://github.com/xiaomi-research/r1-aqa) <!-- 03-25 -->  
+
 + [**Audio-Reasoner: Improving Reasoning Capability in Large Audio Language Models**](https://arxiv.org/abs/2503.02318) [![Paper](https://img.shields.io/badge/arXiv-b22222)]()  <!-- 03-25 -->  
 
 + [**Audio-CoT: Exploring Chain-of-Thought Reasoning in Large Audio Language Model**](https://arxiv.org/abs/2501.07246) [![Paper](https://img.shields.io/badge/arXiv-b22222)]() <!-- 01-25 -->  
@@ -384,57 +425,74 @@ estion-Answering Data**](https://arxiv.org/abs/2501.10937) [![Paper](https://img
 
 ### Cross-modal CoT Reasoning
 #### 2025
+
+
++ [**R1-Omni: Explainable Omni-Multimodal Emotion Recognition with Reinforcement Learning**](https://arxiv.org/abs/2503.05379) [![Paper](https://img.shields.io/badge/arXiv-b22222)]() [![Star](https://img.shields.io/github/stars/HumanMLLM/R1-Omni.svg?style=social&label=Star)](https://github.com/HumanMLLM/R1-Omni)   <!-- 03-25 -->
+
+#### 2024
+
++ [**Chain of Empathy: Enhancing Empathetic Response of Large Language Models Based on Psychotherapy Models**](https://arxiv.org/abs/2311.04915) [![Paper](https://img.shields.io/badge/arXiv-b22222)]()    <!-- 09-24 -->
+
++ [**Multimodal PEAR Chain-of-Thought Reasoning for Multimodal Sentiment Analysis**](https://dl.acm.org/doi/10.1145/3672398) [![Paper](https://img.shields.io/badge/ACMMM-FFD700)]()    <!-- 09-24 -->
+
++ [**Can Textual Semantics Mitigate Sounding Object Segmentation Preference?**](https://arxiv.org/abs/2407.10947) [![Paper](https://img.shields.io/badge/ECCV-1e90ff)]() [![Star](https://img.shields.io/github/stars/GeWu-Lab/Sounding-Object-Segmentation-Preference.svg?style=social&label=Star)](https://github.com/GeWu-Lab/Sounding-Object-Segmentation-Preference) <!-- 07-24 -->
+
 + [**AVQA-CoT: When CoT Meets Question Answering in Audio-Visual Scenarios**](https://sightsound.org/papers/2024/Li_AVQA-CoT_When_CoT_Meets_Question_Answering_in_Audio-Visual_Scenarios.pdf) [![Paper](https://img.shields.io/badge/Workshop-228b22)]()  
-+ [**Can Textual Semantics Mitigate Sounding Object Segmentation Preference?**](https://arxiv.org/abs/2407.10947) [![Paper](https://img.shields.io/badge/ECCV-1e90ff)]() [![Star](https://img.shields.io/github/stars/GeWu-Lab/Sounding-Object-Segmentation-Preference.svg?style=social&label=Star)](https://github.com/GeWu-Lab/Sounding-Object-Segmentation-Preference)  
-+ [**Chain of Empathy: Enhancing Empathetic Response of Large Language Models Based on Psychotherapy Models**](https://arxiv.org/abs/2311.04915) [![Paper](https://img.shields.io/badge/arXiv-b22222)]()  
-+ [**Multimodal PEAR Chain-of-Thought Reasoning for Multimodal Sentiment Analysis**](https://dl.acm.org/doi/10.1145/3672398) [![Paper](https://img.shields.io/badge/ACMMM-FFD700)]()  
-+ [**R1-Omni: Explainable Omni-Multimodal Emotion Recognition with Reinforcement Learning**](https://arxiv.org/abs/2503.05379) [![Paper](https://img.shields.io/badge/arXiv-b22222)]() [![Star](https://img.shields.io/github/stars/HumanMLLM/R1-Omni.svg?style=social&label=Star)](https://github.com/HumanMLLM/R1-Omni)  
+
+
 
 
 
 ---
 
-# 🔥 Multimodal Reasoning Models
-### Image
-+ [**Virgo: A Preliminary Exploration on Reproducing o1-like MLLM**](https://arxiv.org/abs/2501.01904) [![Paper](https://img.shields.io/badge/arXiv-b22222)]()  [![Star](https://img.shields.io/github/stars/RUCAIBox/Virgo.svg?style=social&label=Star)](https://github.com/RUCAIBox/Virgo)
-+ [**LLaVA-CoT: Let Vision Language Models Reason Step-by-Step**](https://arxiv.org/abs/2411.10440) [![Paper](https://img.shields.io/badge/arXiv-b22222)]()  [![Star](https://img.shields.io/github/stars/PKU-YuanGroup/LLaVA-CoT.svg?style=social&label=Star)](https://github.com/PKU-YuanGroup/LLaVA-CoT)
-+ [**LlamaV-o1: Rethinking Step-by-step Visual Reasoning in LLMs**](https://arxiv.org/abs/2501.06186) [![Paper](https://img.shields.io/badge/arXiv-b22222)]()  [![Star](https://img.shields.io/github/stars/mbzuai-oryx/LlamaV-o1.svg?style=social&label=Star)](https://github.com/mbzuai-oryx/LlamaV-o1)
-+ [**Visual-O1: Understanding Ambiguous Instructions via Multi-modal Multi-turn Chain-of-thoughts Reasoning**](https://arxiv.org/abs/2410.03321) [![Paper](https://img.shields.io/badge/ICLR-32CD32)]()  [![Star](https://img.shields.io/github/stars/kodenii/Visual-O1.svg?style=social&label=Star)](https://github.com/kodenii/Visual-O1)
-+ [**Mulberry: Empowering MLLM with o1-like Reasoning and Reflection via Collective Monte Carlo Tree Search**](https://arxiv.org/abs/2412.18319) [![Paper](https://img.shields.io/badge/arXiv-b22222)]()  [![Star](https://img.shields.io/github/stars/HJYao00/Mulberry.svg?style=social&label=Star)](https://github.com/HJYao00/Mulberry)
-+ [**Insight-V: Exploring Long-Chain Visual Reasoning with Multimodal Large Language Models**](https://arxiv.org/abs/2411.14432) [![Paper](https://img.shields.io/badge/arXiv-b22222)]()  [![Star](https://img.shields.io/github/stars/dongyh20/Insight-V.svg?style=social&label=Star)](https://github.com/dongyh20/Insight-V)
-+ [**AR-MCTS: Progressive Multimodal Reasoning via Active Retrieval**](https://arxiv.org/abs/2412.14835) [![Paper](https://img.shields.io/badge/arXiv-b22222)]()  
-+ [**Boosting Multimodal Reasoning with MCTS-Automated Structured Thinking**](https://arxiv.org/abs/2502.02339) [![Paper](https://img.shields.io/badge/arXiv-b22222)]()  
-+ [**Seg-Zero: Reasoning-Chain Guided Segmentation via Cognitive Reinforcement**](https://arxiv.org/abs/2503.06520) [![Paper](https://img.shields.io/badge/arXiv-b22222)]()  [![Star](https://img.shields.io/github/stars/dvlab-research/Seg-Zero.svg?style=social&label=Star)](https://github.com/dvlab-research/Seg-Zero)
-+ [**RedStar: Does Scaling Long-CoT Data Unlock Better Slow-Reasoning Systems?**](https://arxiv.org/abs/2501.11284) [![Paper](https://img.shields.io/badge/arXiv-b22222)]()  [![Star](https://img.shields.io/badge/HuggingFace-FFD700)](https://huggingface.co/RedStar-Reasoning)
-+ [**MAmmoTH-VL: Eliciting Multimodal Reasoning with Instruction Tuning at Scale**](https://arxiv.org/abs/2412.05237) [![Paper](https://img.shields.io/badge/arXiv-b22222)]()  [![Star](https://img.shields.io/github/stars/MAmmoTH-VL/MAmmoTH-VL.svg?style=social&label=Star)](https://github.com/MAmmoTH-VL/MAmmoTH-VL)
-+ [**Improve Vision Language Model Chain-of-thought Reasoning**](https://arxiv.org/abs/2410.16198) [![Paper](https://img.shields.io/badge/arXiv-b22222)]()  [![Star](https://img.shields.io/github/stars/RifleZhang/LLaVA-Reasoner-DPO.svg?style=social&label=Star)](https://github.com/RifleZhang/LLaVA-Reasoner-DPO)
-+ [**Multimodal Open R1**](https://github.com/EvolvingLMMs-Lab/open-r1-multimodal) [![Star](https://img.shields.io/github/stars/EvolvingLMMs-Lab/open-r1-multimodal.svg?style=social&label=Star)](https://github.com/EvolvingLMMs-Lab/open-r1-multimodal)
-+ [**Easy-R1**](https://github.com/hiyouga/EasyR1) [![Star](https://img.shields.io/github/stars/hiyouga/EasyR1.svg?style=social&label=Star)](https://github.com/hiyouga/EasyR1)
-+ [**R1V**](https://github.com/Deep-Agent/R1-V) [![Star](https://img.shields.io/github/stars/Deep-Agent/R1-V.svg?style=social&label=Star)](https://github.com/Deep-Agent/R1-V)
-+ [**MM-Eureka: Exploring Visual Aha Moment with Rule-based Large-scale Reinforcement Learning**](https://github.com/ModalMinds/MM-EUREKA) [![Star](https://img.shields.io/github/stars/ModalMinds/MM-EUREKA.svg?style=social&label=Star)](https://github.com/ModalMinds/MM-EUREKA)
-+ [**Boosting the Generalization and Reasoning of Vision Language Models with Curriculum Reinforcement Learning**](https://arxiv.org/abs/2503.07065) [![Paper](https://img.shields.io/badge/arXiv-b22222)]()  
-+ [**LMM-R1: Empowering 3B LMMs with Strong Reasoning Abilities Through Two-Stage Rule-Based RL**](https://arxiv.org/abs/2503.07536) [![Paper](https://img.shields.io/badge/arXiv-b22222)]()  [![Star](https://img.shields.io/github/stars/TideDra/lmm-r1.svg?style=social&label=Star)](https://github.com/TideDra/lmm-r1)
-+ [**VLM-R1**](https://github.com/om-ai-lab/VLM-R1) [![Star](https://img.shields.io/github/stars/om-ai-lab/VLM-R1.svg?style=social&label=Star)](https://github.com/om-ai-lab/VLM-R1)
-+ [**R1-Zero's "Aha Moment" in Visual Reasoning on a 2B Non-SFT Model**](https://arxiv.org/abs/2503.05132) [![Paper](https://img.shields.io/badge/arXiv-b22222)]()  [![Star](https://img.shields.io/github/stars/turningpoint-ai/VisualThinker-R1-Zero.svg?style=social&label=Star)](https://github.com/turningpoint-ai/VisualThinker-R1-Zero)
-+ [**R1-Onevision: Advancing Generalized Multimodal Reasoning through Cross-Modal Formalization**](https://arxiv.org/abs/2503.10615) [![Paper](https://img.shields.io/badge/arXiv-b22222)]()  [![Star](https://img.shields.io/github/stars/Fancy-MLLM/R1-onevision.svg?style=social&label=Star)](https://github.com/Fancy-MLLM/R1-onevision)
+# 🔥 MCoT Methodologies
 
-### Video
-+ [**Video-R1: Towards Super Reasoning Ability in Video Understanding**](https://github.com/tulerfeng/Video-R1) [![Star](https://img.shields.io/github/stars/tulerfeng/Video-R1.svg?style=social&label=Star)](https://github.com/tulerfeng/Video-R1)
+## Retionale Construction
 
-  
-### Audio
-+ [**Audio-Reasoner: Improving Reasoning Capability in Large Audio Language Models**](https://arxiv.org/abs/2503.02318) [![Paper](https://img.shields.io/badge/arXiv-b22222)]()
-+ [**R1-AQA: Reinforcement Learning Outperforms Supervised Fine-Tuning: A Case Study on Audio Question Answering**](https://arxiv.org/abs/2503.11197v1)[![Paper](https://img.shields.io/badge/arXiv-b22222)]() [![Star](https://img.shields.io/github/stars/xiaomi-research/r1-aqa.svg?style=social&label=Star)](https://github.com/xiaomi-research/r1-aqa)
 
-### Omni
-+ [**R1-Omni: Explainable Omni-Multimodal Emotion Recognition with Reinforcement Learning**](https://arxiv.org/abs/2503.05379) [![Paper](https://img.shields.io/badge/arXiv-b22222)]()  [![Star](https://img.shields.io/github/stars/HumanMLLM/R1-Omni.svg?style=social&label=Star)](https://github.com/HumanMLLM/R1-Omni)
+## Structural Reasoning
+
+
+## Information Enhancing
+
+
+## Objective Granularity
+
+
+## Multimodal Relationale
+
+
+## Test-time Scaling
+
+
+
+# 🎨 Applications with MCoT Reasoning
+
+
+## Embodied AI
+
+## Agentic System
+
+## Autonomous Driving
+
+## Medical and Healthcare
+
+
+## Social and Human
+
+
+
+## Multimodal Generation
+
 
 
 ---
 # 🚀 Useful Links
 ### Survey
 + [From System 1 to System 2: A Survey of Reasoning Large Language Models](https://arxiv.org/abs/2502.17419)
+
 + [Rethinking External Slow-Thinking: From Snowball Errors to Probability of Correct Reasoning](https://arxiv.org/abs/2501.15602)
+
 + [Towards Reasoning Era: A Survey of Long Chain-of-Thought for Reasoning Large Language Models](https://arxiv.org/abs/2503.09567)
 
 
