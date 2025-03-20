@@ -1,11 +1,15 @@
 
 <h2 align="center">Multimodal Chain-of-Thought Reasoning: A Comprehensive Survey</h2>
 <!-- <h1 align="center">Awesome-MCoT</h1> -->
+<div align="center">
 
 [![arXiv](https://img.shields.io/badge/arXiv-2503.12605-b31b1b?style=plastic&logo=arxiv)](https://arxiv.org/abs/2503.12605)
 [![Maintenance](https://img.shields.io/badge/Maintenance-FF9800?style=plastic&logo=maintenance&logoColor=white)](https://github.com/yaotingwangofficial/Awesome-MCoT/issues/1)
 [![Discussion](https://img.shields.io/badge/Discussion-Open-brightgreen?style=plastic&logo=discussion&logoColor=white)](https://github.com/yaotingwangofficial/Awesome-MCoT/discussions)
 [![WeChat](https://img.shields.io/badge/WeChat-007ACC?style=plastic&logo=wechat&logoColor=white)](https://github.com/yaotingwangofficial/Awesome-MCoT/issues/4)
+
+</div>
+
 
 # 🎇 Introduction
 
@@ -33,6 +37,7 @@ To fill this gap, we present [**_the first systematic survey of MCoT reasoning_*
   - [Training with rationle](#tab-1-datasets-for-mcot-training-with-rationale)
   - [Evaluation without rationle](#tab-2-benchmarks-for-mcot-evaluation-without-rationale)
   - [Evaluation with rationle](#tab-3-benchmarks-for-mcot-evaluation-with-rationale)
+- [🎊 Multimodal Reasoning via RL](#-multimodal-reasoning-via-rl)
 - [✨ MCoT Over Various Modalities](#-mcot-over-various-modalities)
   - [MCoT Reasoning Over Image](#mcot-reasoning-over-image)
   - [MCoT Reasoning Over Video](#mcot-reasoning-over-video) 
@@ -61,52 +66,58 @@ To fill this gap, we present [**_the first systematic survey of MCoT reasoning_*
 ### Tab-1: Datasets for MCoT _Training_ _with_ Rationale. 
 | Datasets                  | Year | Task              | Domain               | Modality | Format         | Samples   |
 |:---------------------------:|:------:|:-------------------:|:----------------------:|:----------:|:----------------:|:-----------:|
-| ScienceQA                 | 2022 | VQA               | Science              | T, I     | MC             | 21K       |
-| A-OKVQA                   | 2022 | VQA               | Common               | T, I     | MC             | 25K       |
-| EgoCoT                    | 2023 | VideoQA           | Common               | T, V     | Open           | 200M      |
-| VideoCoT                  | 2024 | VideoQA           | Human Action         | T, V     | Open           | 22K       |
-| VideoEspresso             | 2024 | VideoQA           | Common               | T, V     | Open           | 202,164   |
-| EMMA-X                    | 2024 | Robot Manipulation| Indoor               | T, V     | Robot Actions  | 60K       |
-| M3CoT                     | 2024 | VQA               | Science, Math, Common| T, I     | MC             | 11.4K     |
-| MAVIS                     | 2024 | ScienceQA         | Math                 | T, I     | MC and Open    | 834K      |
-| LLaVA-CoT-100k            | 2024 | VQA               | Common, Science      | T, I     | MC and Open    | 834K      |
-| MAmmoTH-VL                | 2024 | Diverse           | Diverse              | T, I     | MC and Open    | 12M       |
-| Mulberry-260k             | 2024 | Diverse           | Diverse              | T, I     | MC and Open    | 260K      |
-| MM-Verify                 | 2025 | MathQA            | Math                 | T, I     | MC and Open    | 59,772    |
-| VisualPRM400K             | 2025 | ScienceQA         | Math, Science        | T, I     | MC and Open    | 400K      |
-| R1-OneVision              | 2025 | Diverse           | Diverse              | T, I     | MC and Open    | 155K      |
+| [ScienceQA](https://scienceqa.github.io/)                 | 2022 | VQA               | Science              | T, I     | MC             | 21K       |
+| [A-OKVQA](https://github.com/allenai/aokvqa)                   | 2022 | VQA               | Common               | T, I     | MC             | 25K       |
+| [EgoCoT](https://github.com/EmbodiedGPT/EgoCOT_Dataset)                    | 2023 | VideoQA           | Common               | T, V     | Open           | 200M      |
+| [VideoCoT](https://arxiv.org/pdf/2407.05355)                  | 2024 | VideoQA           | Human Action         | T, V     | Open           | 22K       |
+| [VideoEspresso](https://github.com/hshjerry/VideoEspresso)             | 2024 | VideoQA           | Common               | T, V     | Open           | 202,164   |
+| [EMMA-X](https://github.com/declare-lab/Emma-X)                    | 2024 | Robot Manipulation| Indoor               | T, V     | Robot Actions  | 60K       |
+| [M3CoT](https://github.com/LightChen233/M3CoT)                     | 2024 | VQA               | Science, Math, Common| T, I     | MC             | 11.4K     |
+| [MAVIS](https://github.com/ZrrSkywalker/MAVIS)                     | 2024 | ScienceQA         | Math                 | T, I     | MC and Open    | 834K      |
+| [LLaVA-CoT-100k](https://github.com/PKU-YuanGroup/LLaVA-CoT)            | 2024 | VQA               | Common, Science      | T, I     | MC and Open    | 834K      |
+| [MAmmoTH-VL](https://mammoth-vl.github.io/)                | 2024 | Diverse           | Diverse              | T, I     | MC and Open    | 12M       |
+| [Mulberry-260k](https://github.com/HJYao00/Mulberry)             | 2024 | Diverse           | Diverse              | T, I     | MC and Open    | 260K      |
+| [MM-Verify](https://github.com/Aurora-slz/MM-Verify)                 | 2025 | MathQA            | Math                 | T, I     | MC and Open    | 59,772    |
+| [VisualPRM400K](https://internvl.github.io/blog/2025-03-13-VisualPRM/)             | 2025 | ScienceQA         | Math, Science        | T, I     | MC and Open    | 400K      |
+| [R1-OneVision](https://github.com/Fancy-MLLM/R1-Onevision)              | 2025 | Diverse           | Diverse              | T, I     | MC and Open    | 155K      |
+
+
 
 ### Tab-2: Benchmarks for MCoT _Evaluation_ _without_ Rationale.
 | Datasets                  | Year | Task              | Domain               | Modality | Format         | Samples   |
 |:---------------------------:|:------:|:-------------------:|:----------------------:|:----------:|:----------------:|:-----------:|
-| MMMU                      | 2023 | VQA               | Arts, Science        | T, I     | MC and Open    | 11.5K     |
-| SEED                      | 2023 | VQA               | Common               | T, I     | MC             | 19K       |
-| MathVista                 | 2023 | ScienceQA         | Math                 | T, I     | MC and Open    | 6,141     |
-| MathVerse                 | 2024 | ScienceQA         | Math                 | T, I     | MC and Open    | 15K       |
-| Math-Vision               | 2024 | ScienceQA         | Math                 | T, I     | MC and Open    | 3040      |
-| MeViS                     | 2023 | Referring VOS     | Common               | T, V     | Dense Mask     | 2K        |
-| VSIBench                  | 2024 | VideoQA           | Indoor               | T, V     | MC and Open    | 5K        |
-| HallusionBench            | 2024 | VQA               | Common               | T, I     | Yes-No         | 1,129     |
-| AV-Odyssey                | 2024 | AVQA              | Common               | T, V, A  | MC             | 4,555     |
-| AVHBench                  | 2024 | AVQA              | Common               | T, V, A  | Open           | 5,816     |
-| RefAVS-Bench              | 2024 | Referring AVS     | Common               | T, V, A  | Dense Mask     | 4,770     |
-| MMAU                      | 2024 | AQA               | Common               | T, A     | MC             | 10K       |
-| AVTrustBench              | 2025 | AVQA              | Common               | T, V, A  | MC and Open    | 600K      |
-| MIG-Bench                 | 2025 | Multi-image Grounding | Common          | T, I     | BBox           | 5.89K     |
-| MedAgentsBench            | 2025 | MedicalQA         | Medical              | T, I     | MC and Open    | 862       |
+| [MMMU](https://mmmu-benchmark.github.io/)                      | 2023 | VQA               | Arts, Science        | T, I     | MC and Open    | 11.5K     |
+| [SEED](https://github.com/ailab-cvc/seed-bench)                      | 2023 | VQA               | Common               | T, I     | MC             | 19K       |
+| [MathVista](https://mathvista.github.io/)                 | 2023 | ScienceQA         | Math                 | T, I     | MC and Open    | 6,141     |
+| [MathVerse](https://mathverse-cuhk.github.io/)                 | 2024 | ScienceQA         | Math                 | T, I     | MC and Open    | 15K       |
+| [Math-Vision](https://github.com/mathllm/MATH-V)               | 2024 | ScienceQA         | Math                 | T, I     | MC and Open    | 3040      |
+| [MeViS](https://henghuiding.github.io/MeViS/)                     | 2023 | Referring VOS     | Common               | T, V     | Dense Mask     | 2K        |
+| [VSIBench](https://github.com/vision-x-nyu/thinking-in-space)                  | 2024 | VideoQA           | Indoor               | T, V     | MC and Open    | 5K        |
+| [HallusionBench](https://github.com/tianyi-lab/HallusionBench)            | 2024 | VQA               | Common               | T, I     | Yes-No         | 1,129     |
+| [AV-Odyssey](https://av-odyssey.github.io/)                | 2024 | AVQA              | Common               | T, V, A  | MC             | 4,555     |
+| [AVHBench](https://github.com/kaist-ami/AVHBench)                  | 2024 | AVQA              | Common               | T, V, A  | Open           | 5,816     |
+| [RefAVS-Bench](https://github.com/GeWu-Lab/Sounding-Object-Segmentation-Preference)              | 2024 | Referring AVS     | Common               | T, V, A  | Dense Mask     | 4,770     |
+| [MMAU](https://mmaubench.github.io/)                      | 2024 | AQA               | Common               | T, A     | MC             | 10K       |
+| [AVTrustBench](https://arxiv.org/pdf/2501.02135)              | 2025 | AVQA              | Common               | T, V, A  | MC and Open    | 600K      |
+| [MIG-Bench](https://github.com/LeyRio/MIG_Bench)                 | 2025 | Multi-image Grounding | Common          | T, I     | BBox           | 5.89K     |
+| [MedAgentsBench](https://github.com/gersteinlab/medagents-benchmark)            | 2025 | MedicalQA         | Medical              | T, I     | MC and Open    | 862       |
+
+
+
+
 
 
 ### Tab-3: Benchmarks for MCoT _Evaluation_ _with_ Rationale.
 | Datasets                  | Year | Task              | Domain               | Modality | Format         | Samples   |
 |:---------------------------:|:------:|:-------------------:|:----------------------:|:----------:|:----------------:|:-----------:|
-| CoMT                      | 2024 | VQA               | Common               | T, I     | MC             | 3,853     |
-| OmniBench                 | 2024 | VideoQA           | Common               | T, I, A  | MC             | 1,142     |
-| WorldQA                   | 2024 | VideoQA           | Common               | T, V, A  | Open           | 1,007     |
-| MiCEval                   | 2024 | VQA               | Common               | T, I     | Open           | 643       |
-| OlympiadBench             | 2024 | ScienceQA         | Maths, Physics       | T, I     | Open           | 8,476     |
-| MME-CoT                   | 2025 | VQA               | Science, Math, Common| T, I     | MC and Open    | 1,130     |
-| EMMA                      | 2025 | VQA               | Science              | T, I     | MC and Open    | 2,788     |
-| VisualProcessBench        | 2025 | ScienceQA         | Math, Science        | T, I     | MC and Open    | 2,866     |
+| [CoMT](https://github.com/czhhzc/CoMT)                      | 2024 | VQA               | Common               | T, I     | MC             | 3,853     |
+| [OmniBench](https://m-a-p.ai/OmniBench/)                 | 2024 | VideoQA           | Common               | T, I, A  | MC             | 1,142     |
+| [WorldQA](https://zhangyuanhan-ai.github.io/WorldQA/)                   | 2024 | VideoQA           | Common               | T, V, A  | Open           | 1,007     |
+| [MiCEval](https://github.com/alenai97/miceval)                   | 2024 | VQA               | Common               | T, I     | Open           | 643       |
+| [OlympiadBench](https://github.com/OpenBMB/OlympiadBench)             | 2024 | ScienceQA         | Maths, Physics       | T, I     | Open           | 8,476     |
+| [MME-CoT](https://mmecot.github.io/)                  | 2025 | VQA               | Science, Math, Common| T, I     | MC and Open    | 1,130     |
+| [EMMA](https://github.com/hychaochao/EMMA)                      | 2025 | VQA               | Science              | T, I     | MC and Open    | 2,788     |
+| [VisualProcessBench](https://huggingface.co/datasets/OpenGVLab/VisualProcessBench)        | 2025 | ScienceQA         | Math, Science        | T, I     | MC and Open    | 2,866     |
 
 
 
