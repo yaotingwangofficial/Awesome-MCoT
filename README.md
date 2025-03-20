@@ -181,14 +181,23 @@ To fill this gap, we present [**_the first systematic survey of MCoT reasoning_*
 
 #### 2025
 
+
+
 + [**VLM-R1**](https://github.com/om-ai-lab/VLM-R1) [![Star](https://img.shields.io/github/stars/om-ai-lab/VLM-R1.svg?style=social&label=Star)](https://github.com/om-ai-lab/VLM-R1)
 
-+ [**MM-Eureka: Exploring Visual Aha Moment with Rule-based Large-scale Reinforcement Learning**](https://github.com/ModalMinds/MM-EUREKA) [![Star](https://img.shields.io/github/stars/ModalMinds/MM-EUREKA.svg?style=social&label=Star)](https://github.com/ModalMinds/MM-EUREKA)
++ [**MM-Eureka: Exploring Visual Aha Moment with Rule-based Large-scale Reinforcement Learning**](https://github.com/ModalMinds/MM-EUREKA) [![Star](https://img.shields.io/github/stars/ModalMinds/MM-EUREKA.svg?style=social&label=Star)](https://github.com/ModalMinds/MM-EUREKA) <!-- 03-25 -->
 
++ [**Vision-R1: Incentivizing Reasoning Capability in Multimodal Large Language Models**](https://arxiv.org/abs/2503.06749) [![Paper](https://img.shields.io/badge/arXiv-b22222)]()  [![Star](https://img.shields.io/github/stars/Osilly/Vision-R1.svg?style=social&label=Star)](https://github.com/Osilly/Vision-R1)
+
++ [**VisRL: Intention-Driven Visual Perception via Reinforced Reasoning**](https://arxiv.org/abs/2503.07523) [![Paper](https://img.shields.io/badge/arXiv-b22222)]() [![Star](https://img.shields.io/github/stars/zhangquanchen/VisRL.svg?style=social&label=Star)](https://github.com/zhangquanchen/VisRL)
+
++ [**VR1-VL: Learning to Reason with Multimodal Large Language Models via Step-wise Group Relative Policy Optimization**](https://arxiv.org/abs/2503.12937) [![Paper](https://img.shields.io/badge/arXiv-b22222)]() [![Star](https://img.shields.io/github/stars/jingyi0000/R1-VL.svg?style=social&label=Star)](https://github.com/jingyi0000/R1-VL)
 
 + [**R1-Onevision: Advancing Generalized Multimodal Reasoning through Cross-Modal Formalization**](https://arxiv.org/abs/2503.10615) [![Paper](https://img.shields.io/badge/arXiv-b22222)]()  [![Star](https://img.shields.io/github/stars/Fancy-MLLM/R1-onevision.svg?style=social&label=Star)](https://github.com/Fancy-MLLM/R1-onevision)
 
 + [**LMM-R1: Empowering 3B LMMs with Strong Reasoning Abilities Through Two-Stage Rule-Based RL**](https://arxiv.org/abs/2503.07536) [![Paper](https://img.shields.io/badge/arXiv-b22222)]()  [![Star](https://img.shields.io/github/stars/TideDra/lmm-r1.svg?style=social&label=Star)](https://github.com/TideDra/lmm-r1)  <!-- 03-25 -->
+
++ [**LVisual-RFT: Visual Reinforcement Fine-Tuning**](https://arxiv.org/abs/2503.01785) [![Paper](https://img.shields.io/badge/arXiv-b22222)]()  [![Star](https://img.shields.io/github/stars/Liuziyu77/Visual-RFT.svg?style=social&label=Star)](https://github.com/Liuziyu77/Visual-RFT)  <!-- 03-25 -->
 
 + [**Boosting the Generalization and Reasoning of Vision Language Models with Curriculum Reinforcement Learning**](https://arxiv.org/abs/2503.07065) [![Paper](https://img.shields.io/badge/arXiv-b22222)]()  <!-- 03-25 -->
 
@@ -322,6 +331,8 @@ To fill this gap, we present [**_the first systematic survey of MCoT reasoning_*
 + [**Video-R1: Towards Super Reasoning Ability in Video Understanding**](https://github.com/tulerfeng/Video-R1) [![Star](https://img.shields.io/github/stars/tulerfeng/Video-R1.svg?style=social&label=Star)](https://github.com/tulerfeng/Video-R1)
 
 + [**CoS: Chain-of-Shot Prompting for Long Video Understanding**](https://arxiv.org/abs/2502.06428) [![Paper](https://img.shields.io/badge/arXiv-b22222)]() [![Star](https://img.shields.io/github/stars/lwpyh/CoS_codes.svg?style=social&label=Star)](https://github.com/lwpyh/CoS_codes)   <!-- 02-25 -->
+
++ [**video-SALMONN-o1: Reasoning-enhanced Audio-visual Large Language Model**](https://arxiv.org/abs/2502.06428) [![Paper](https://img.shields.io/badge/arXiv-b22222)]() [![Star](https://img.shields.io/github/stars/BriansIDP/video-SALMONN-o1.svg?style=social&label=Star)](https://github.com/BriansIDP/video-SALMONN-o1)   <!-- 02-25 -->
   
 + [**Following Clues, Approaching the Truth: Explainable Micro-Video Rumor Detection via Chain-of-Thought Reasoning**](https://openreview.net/pdf/6c509d93a31887cb5e3feaae2a453c392028dfdb.pdf) [![Paper](https://img.shields.io/badge/arXiv-b22222)]()    <!-- 01-25 -->
 
@@ -488,6 +499,8 @@ MCoT reasoning methodologies primarily concern the construction of rationales an
   <img src="assets/mcot_method_Object_Granularity.png" width="100%">
 </p>
 
++ [**Grounded Chain-of-Thought for Multimodal Large Language Models**](https://arxiv.org/abs/2503.12799) [![Paper](https://img.shields.io/badge/arXiv-b22222)]()  <!-- 03-25 -->
+
 
 ## Multimodal Relationale
 
@@ -507,7 +520,7 @@ MCoT reasoning methodologies primarily concern the construction of rationales an
 ---
 
 
-# 🎨 Applications with MCoT Reasoning
+# 🎨 Applications with MCoT Reasoning 
 
 
 ## Embodied AI
