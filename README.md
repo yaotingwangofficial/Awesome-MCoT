@@ -39,6 +39,9 @@ To fill this gap, we present [**_the first systematic survey of MCoT reasoning_*
   - [Video](#video)
   - [Audio](#audio)
   - [Omni](#omni)
+- [MCoT Methodologies](#-mcot-methodologies)
+  - [Rationale Construction]()
+  - []
 - [🚀 Useful Links](#-useful-links)
 - [❤️ Citation](#%EF%B8%8F-citation)
 - [⭐️ Star History](#%EF%B8%8F-star-history)
