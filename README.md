@@ -579,16 +579,29 @@ MCoT reasoning methodologies primarily concern the construction of rationales an
 
 
 ## Social and Human
++ [**Chain-of-Exemplar: Enhancing Distractor Generation for Multimodal Educational Question Generation**](https://aclanthology.org/2024.acl-long.432/) [![Paper](https://img.shields.io/badge/ACL-191970)]() [![Star](https://img.shields.io/github/stars/Luohh5/Chain-of-Exemplar.svg?style=social&label=Star)](https://github.com/Luohh5/Chain-of-Exemplar)  <!-- 08-24 -->
 
-+ [*Multimodal PEAR Chain-of-Thought Reasoning for Multimodal Sentiment Analysis**](https://dl.acm.org/doi/10.1145/3672398) [![Paper](https://img.shields.io/badge/TMCCA-b22222)]()  <!-- 09-24 -->
++ [**X-Reflect: Cross-Reflection Prompting for Multimodal Recommendation**](https://arxiv.org/abs/2408.15172) [![Paper](https://img.shields.io/badge/arxiv-b22222)]() <!-- 08-24 -->
+
++ [**Multimodal PEAR Chain-of-Thought Reasoning for Multimodal Sentiment Analysis**](https://dl.acm.org/doi/10.1145/3672398) [![Paper](https://img.shields.io/badge/TMCCA-b22222)]()  <!-- 09-24 -->
 
 
-+ [*Chain of Empathy: Enhancing Empathetic Response of Large Language Models Based on Psychotherapy Models**](https://arxiv.org/abs/2311.04915) [![Paper](https://img.shields.io/badge/arxiv-b22222)]()  <!-- 09-24 -->
++ [**Chain of Empathy: Enhancing Empathetic Response of Large Language Models Based on Psychotherapy Models**](https://arxiv.org/abs/2311.04915) [![Paper](https://img.shields.io/badge/arxiv-b22222)]()  <!-- 09-24 -->
+
++ [**Chain-of-Thought Prompting for Demographic Inference with Large Multimodal Models**](https://arxiv.org/abs/2405.15687) [![Paper](https://img.shields.io/badge/arxiv-b22222)]()  <!-- 09-24 -->
 
 
 ## Multimodal Generation
 
++ [**GoT: Unleashing Reasoning Capability of Multimodal Large Language Model for Visual Generation and Editing**](https://arxiv.org/abs/2503.10639) [![Paper](https://img.shields.io/badge/arxiv-b22222)]() [![Star](https://img.shields.io/github/stars/rongyaofang/GoT.svg?style=social&label=Star)](https://github.com/rongyaofang/GoT)  <!-- 03-25 -->
 
++ [**Can We Generate Images with CoT? Let's Verify and Reinforce Image Generation Step by Step**](https://arxiv.org/abs/2501.13926) [![Paper](https://img.shields.io/badge/CVPR-8A2BE2)]() [![Star](https://img.shields.io/github/stars/ZiyuGuo99/Image-Generation-CoT.svg?style=social&label=Star)](https://github.com/ZiyuGuo99/Image-Generation-CoT)  <!-- 01-25 -->
+
++ [**Mastering Text-to-Image Diffusion: Recaptioning, Planning, and Generating with Multimodal LLMs**](https://arxiv.org/abs/2405.15687) [![Paper](https://img.shields.io/badge/ICML-FF7F50)]()  [![Star](https://img.shields.io/github/stars/YangLing0818/RPG-DiffusionMaster.svg?style=social&label=Star)](https://github.com/YangLing0818/RPG-DiffusionMaster)<!-- 05-24 -->
+
++ [**L3GO: Language Agents with Chain-of-3D-Thoughts for Generating Unconventional Objects**](https://arxiv.org/abs/2402.09052) [![Paper](https://img.shields.io/badge/arXiv-b22222)]()    <!-- 02-24 --> 
+
++ [**3D-PreMise: Can Large Language Models Generate 3D Shapes with Sharp Features and Parametric Control?**](https://arxiv.org/abs/2401.06437) [![Paper](https://img.shields.io/badge/arXiv-b22222)]()    <!-- 02-24 --> 
 
 ---
 # 🚀 Useful Links
