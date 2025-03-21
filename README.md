@@ -158,6 +158,8 @@ To fill this gap, we present [**_the first systematic survey of MCoT reasoning_*
 | [Easy-R1](https://github.com/hiyouga/EasyR1)                        | Qwen2.5-VL | T,I                | RL               | ❌   | GRPO             | -   |
 |  [Open-R1-Video](https://github.com/Wang-Xiaodong1899/Open-R1-Video)                       | Qwen2-VL-7B | T,I,V             | RL               | ❌   | GRPO             | ❌   |
 | [R1-Omni](https://github.com/HumanMLLM/R1-Omni)                      | HumanOmni-0.5B  | T,I,V,A             | SFT+RL               | ✅  | GRPO             | -  |
+| [VisRL](https://github.com/zhangquanchen/VisRL)                      | Qwen2.5-VL-7B  | T,I            | SFT+RL               | ✅  | DPO             | -  |
+| [R1-VL]()                      | Qwen2-VL-7B  | T,I            | RL               | ❌  | StepGPRO             | -  |
 
 
 ---
