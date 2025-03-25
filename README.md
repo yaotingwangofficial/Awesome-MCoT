@@ -7,6 +7,8 @@
 [![Maintenance](https://img.shields.io/badge/Maintenance-FF9800?style=plastic&logo=maintenance&logoColor=white)](https://github.com/yaotingwangofficial/Awesome-MCoT/issues/1)
 [![Discussion](https://img.shields.io/badge/Discussion-Open-brightgreen?style=plastic&logo=discussion&logoColor=white)](https://github.com/yaotingwangofficial/Awesome-MCoT/discussions)
 [![WeChat](https://img.shields.io/badge/WeChat-007ACC?style=plastic&logo=wechat&logoColor=white)](https://github.com/yaotingwangofficial/Awesome-MCoT/issues/4)
+[![Slack](https://img.shields.io/badge/Slack-Join%20Us-brightgreen?style=plastic&logo=slack)](https://join.slack.com/t/mcot/shared_invite/zt-329e3dpuf-Fr~umfXWlhxONrdgERKSaQ)
+
 
 </div>
 
