@@ -702,6 +702,7 @@ The reasoning processes adopt either text-only or multimodal rationales.
 @article{wang2025multimodal,
   author    = {Yaoting, Wang and Shengqiong, Wu and Yuechen, Zhang and Shuicheng, Yan and Ziwei, Liu and Jiebo, Luo and Hao, Fei},
   title     = {Multimodal Chain-of-Thought Reasoning: A Comprehensive Survey},
+  journal   = {arXiv preprint arXiv:2503.12605},
   year      = {2025},
 }
 ```
