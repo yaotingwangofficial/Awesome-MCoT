@@ -163,7 +163,7 @@ To fill this gap, we present [**_the first systematic survey of MCoT reasoning_*
 | [R1-Omni](https://github.com/HumanMLLM/R1-Omni)                      | HumanOmni-0.5B  | T,I,V,A             | SFT+RL               | ✅  | GRPO             | -  |
 | [VisRL](https://github.com/zhangquanchen/VisRL)                      | Qwen2.5-VL-7B  | T,I            | SFT+RL               | ✅  | DPO             | -  |
 | [R1-VL]()                      | Qwen2-VL-7B  | T,I            | RL               | ❌  | StepGPRO             | -  |
-
+| [OpenVLThinker](https://github.com/yihedeng9/OpenVLThinker) | Qwen2.5-VL-7B-Instruct | T,I | SFT+RL | ✅ | GRPO | - |
 
 ---
 <!-- CVPR-8A2BE2 -->
