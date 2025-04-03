@@ -40,9 +40,9 @@ To fill this gap, we present [**_the first systematic survey of MCoT reasoning_*
 # 📕 Table of Contents
 
 - [🎖 MCoT Datasets and Benchmarks](#-mcot-datasets-and-benchmarks)
-  - [Training with rationle](#tab-1-datasets-for-mcot-training-with-rationale)
-  - [Evaluation without rationle](#tab-2-benchmarks-for-mcot-evaluation-without-rationale)
-  - [Evaluation with rationle](#tab-3-benchmarks-for-mcot-evaluation-with-rationale)
+  - [Training with rationale](#tab-1-datasets-for-mcot-training-with-rationale)
+  - [Evaluation without rationale](#tab-2-benchmarks-for-mcot-evaluation-without-rationale)
+  - [Evaluation with rationale](#tab-3-benchmarks-for-mcot-evaluation-with-rationale)
 - [🎊 Multimodal Reasoning via RL](#-multimodal-reasoning-via-rl)
 - [✨ MCoT Over Various Modalities](#-mcot-over-various-modalities)
   - [MCoT Reasoning Over Image](#mcot-reasoning-over-image)
