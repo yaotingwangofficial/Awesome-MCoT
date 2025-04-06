@@ -12,6 +12,11 @@
 
 </div>
 
+
+> 💡 *You're very welcome to join our discussion (on WeChat or Slack) on the topic of multimodal reasoning.*  
+> 📌 *Please feel free to ping us for any possibly missed related work.*
+
+
 <p align="center">
   <img src="assets/cover-teasure-map.png" width="100%">
 </p>
