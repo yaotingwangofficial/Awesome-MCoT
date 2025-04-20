@@ -191,7 +191,7 @@ To fill this gap, we present [**_the first systematic survey of MCoT reasoning_*
 
 #### 2025
 
-
++ [**Embodied-Reasoner: Synergizing Visual Search, Reasoning, and Action for Embodied Interactive Tasks**](https://arxiv.org/abs/2503.21696) [![Paper](https://img.shields.io/badge/arXiv-b22222)]() [![Star](https://img.shields.io/github/stars/zwq2018/embodied_reasoner.svg?style=social&label=Star)](https://github.com/zwq2018/embodied_reasoner) [![Star](https://img.shields.io/badge/HuggingFace-FFD700)](https://huggingface.co/datasets/zwq2018/embodied_reasoner)<!-- 03-25 -->
 
 + [**VLM-R1**](https://github.com/om-ai-lab/VLM-R1) [![Star](https://img.shields.io/github/stars/om-ai-lab/VLM-R1.svg?style=social&label=Star)](https://github.com/om-ai-lab/VLM-R1)
 
