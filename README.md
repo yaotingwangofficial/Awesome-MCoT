@@ -404,6 +404,8 @@ To fill this gap, we present [**_the first systematic survey of MCoT reasoning_*
 ### MCoT Reasoning Over Audio and Speech
 #### 2025
 
++ [*EchoInk-R1*](https://github.com/HarryHsing/EchoInk)[![Paper](https://img.shields.io/badge/arXiv-b22222)]()]() [![Star](https://img.shields.io/github/stars/HarryHsing/EchoInk.svg?style=social&label=Star)](https://github.com/HarryHsing/EchoInk) <!-- 03-25 -->  
+
 + [**R1-AQA: Reinforcement Learning Outperforms Supervised Fine-Tuning: A Case Study on Audio Question Answering**](https://arxiv.org/abs/2503.11197v1)[![Paper](https://img.shields.io/badge/arXiv-b22222)]() [![Star](https://img.shields.io/github/stars/xiaomi-research/r1-aqa.svg?style=social&label=Star)](https://github.com/xiaomi-research/r1-aqa) <!-- 03-25 -->  
 
 + [**Audio-Reasoner: Improving Reasoning Capability in Large Audio Language Models**](https://arxiv.org/abs/2503.02318) [![Paper](https://img.shields.io/badge/arXiv-b22222)]()  <!-- 03-25 -->  
