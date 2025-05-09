@@ -27,7 +27,7 @@
 
 Multimodal chain-of-thought (MCoT) reasoning has garnered attention for its ability to enhance ***step-by-step*** reasoning in multimodal contexts, particularly within multimodal large language models (MLLMs). Current MCoT research explores various methodologies to address the challenges posed by images, videos, speech, audio, 3D data, and structured data, achieving success in fields such as robotics, healthcare, and autonomous driving. However, despite these advancements, the field lacks a comprehensive review that addresses the numerous remaining challenges.
 
-To fill this gap, we present [**_the first systematic survey of MCoT reasoning_**](https://arxiv.org/abs/2503.12605), elucidating the foundational concepts and definitions pertinent to this area. Our work includes a detailed taxonomy and an analysis of existing methodologies across different applications, as well as insights into current challenges and future research directions aimed at fostering the development of multimodal reasoning.
+To fill this gap, we present [**_the first systematic survey of MCoT reasoning_**](https://arxiv.org/abs/2503.12605), elucidating the foundational concepts and definitions pertinent to this area. Our work includes a detailed taxonomy and an analysis of existing methodologies across different applications, as well as insights into current challenges and future research directions aimed at fostering the development of soning.
 
 <p align="center">
   <img src="assets/mcot_timeline-1.png" width="100%">
@@ -169,6 +169,7 @@ To fill this gap, we present [**_the first systematic survey of MCoT reasoning_*
 | [VisRL](https://github.com/zhangquanchen/VisRL)                      | Qwen2.5-VL-7B  | T,I            | SFT+RL               | ✅  | DPO             | -  |
 | [R1-VL]()                      | Qwen2-VL-7B  | T,I            | RL               | ❌  | StepGPRO             | -  |
 | [OpenVLThinker](https://github.com/yihedeng9/OpenVLThinker) | Qwen2.5-VL-7B-Instruct | T,I | SFT+RL | ✅ | GRPO | - |
+| [EchoInk-R1](https://arxiv.org/abs/2505.04623) | Qwen2.5-Omni-7B | T, I, A | RL | ❌ | GRPO | ✅ |
 
 ---
 <!-- CVPR-8A2BE2 -->
