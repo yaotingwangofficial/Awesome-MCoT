@@ -39,9 +39,9 @@ To fill this gap, we present [**_the first systematic survey of MCoT reasoning_*
 
 
 ### Updates
-> 2025-05-20: We upload the Chiense language version, enjoy!
-> 2025-04-25: We gain 500 stars! Thank you all!
-> 2025-03-18: We release the Awesome-MCoT repo and survey.
+> 2025-05-20: We upload the Chiense language version, enjoy! <br>
+> 2025-04-25: We gain 500 stars! Thank you all! <br>
+> 2025-03-18: We release the Awesome-MCoT repo and survey. 
 
 ---
 # 📕 Table of Contents
