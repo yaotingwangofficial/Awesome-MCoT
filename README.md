@@ -244,7 +244,6 @@ To fill this gap, we present [**_the first systematic survey of MCoT reasoning_*
 
 + [**Can We Generate Images with CoT? Let's Verify and Reinforce Image Generation Step by Step**](https://arxiv.org/abs/2501.13926) [![Paper](https://img.shields.io/badge/arXiv-b22222)]()  [![Star](https://img.shields.io/github/stars/ZiyuGuo99/Image-Generation-CoT.svg?style=social&label=Star)](https://github.com/ZiyuGuo99/Image-Generation-CoT) <!-- 01-25 -->
 
-+ [**FutureSightDrive: Thinking Visually with Spatio-Temporal CoT for Autonomous Driving**](https://github.com/MIV-XJTU/FSDrive)
 
 #### 2024
 
@@ -652,6 +651,7 @@ The reasoning processes adopt either text-only or multimodal rationales.
 
 + [**DriveCoT: Integrating Chain-of-Thought Reasoning with End-to-End Driving**](https://arxiv.org/abs/2403.16996) [![Paper](https://img.shields.io/badge/arxiv-b22222)]()  <!-- 03-24 -->
 
++ [**FutureSightDrive: Thinking Visually with Spatio-Temporal CoT for Autonomous Driving**](https://github.com/MIV-XJTU/FSDrive)
 
 
 ## Medical and Healthcare
