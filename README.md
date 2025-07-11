@@ -634,7 +634,7 @@ The reasoning processes adopt either text-only or multimodal rationales.
 
 + [**OpenManus: An open-source framework for building general AI agents**](https://github.com/henryalps/OpenManus)
 
-
++ [**RIG: Synergizing Reasoning and Imagination in End-to-End Generalist Policy**](https://arxiv.org/pdf/2503.24388)
 
 
 ## Autonomous Driving
