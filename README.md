@@ -595,6 +595,8 @@ The reasoning processes adopt either text-only or multimodal rationales.
 
 + [**Marco-o1: Towards Open Reasoning Models for Open-Ended Solutions**](https://arxiv.org/abs/2411.14405) [![Paper](https://img.shields.io/badge/arXiv-b22222)]() [![Star](https://img.shields.io/github/stars/AIDC-AI/Marco-o1.svg?style=social&label=Star)](https://github.com/AIDC-AI/Marco-o1)  <!-- 12-23 -->
 
++ [**The Synergy Dilemma of Long-CoT SFT and RL: Investigating Post-Training Techniques for Reasoning VLMs**](https://www.arxiv.org/abs/2507.07562) [![Paper](https://img.shields.io/badge/arXiv-b22222)]()  [![Star](https://img.shields.io/badge/HuggingFace-FFD700)](https://github.com/JierunChen/SFT-RL-SynergyDilemma)
+
 ---
 
 
