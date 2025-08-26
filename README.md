@@ -172,7 +172,7 @@ To fill this gap, we present [**_the first systematic survey of MCoT reasoning_*
 | [R1-VL]()                      | Qwen2-VL-7B  | T,I            | RL               | ❌  | StepGPRO             | -  |
 | [OpenVLThinker](https://github.com/yihedeng9/OpenVLThinker) | Qwen2.5-VL-7B-Instruct | T,I | SFT+RL | ✅ | GRPO | - |
 | [EchoInk-R1](https://arxiv.org/abs/2505.04623) | Qwen2.5-Omni-7B | T, I, A | RL | ❌ | GRPO | ✅ |
-
+| [Web-CogReasoner](https://arxiv.org/abs/2508.01858) | Qwen2.5-VL-7B | T, I | SFT | - | - | -
 ---
 <!-- CVPR-8A2BE2 -->
 <!-- WACV-6a5acd -->
@@ -637,6 +637,8 @@ The reasoning processes adopt either text-only or multimodal rationales.
 + [**OpenManus: An open-source framework for building general AI agents**](https://github.com/henryalps/OpenManus)
 
 + [**RIG: Synergizing Reasoning and Imagination in End-to-End Generalist Policy**](https://arxiv.org/pdf/2503.24388)
+
++ [**Web-CogReasoner: Towards Knowledge-Induced Cognitive Reasoning for Web Agents**](https://gnonymous.github.io/Web-CogReasoner) [![Paper](https://img.shields.io/badge/arxiv-b22222)]() [![Star](https://img.shields.io/github/stars/gnonymous/Web-CogReasoner.svg?style=social&label=Star)](https://github.com/gnonymous/Web-CogReasoner)
 
 
 ## Autonomous Driving
