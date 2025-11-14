@@ -379,7 +379,7 @@ To fill this gap, we present [**_the first systematic survey of MCoT reasoning_*
 
 ### MCoT Reasoning Over 3D
 #### 2025
-
++ [**SceneCOT: Eliciting Grounded Chain-of-Thought Reasoning in 3D Scenes**](https://www.arxiv.org/abs/2510.16714) [![Paper](https://img.shields.io/badge/arXiv-b22222)]()[![Star](https://img.shields.io/github/stars/SceneCOT.svg?style=social&label=Star)](https://github.com/SceneCOT/scenecot)     <!-- 10-19 --> 
 + [**Integrating Chain-of-Thought for Multimodal Alignment: A Study on 3D Vision-Language Learning**](https://arxiv.org/as/2503.06232) [![Paper](https://img.shields.io/badge/arXiv-b22222)]()    <!-- 03-25 --> 
 
 
