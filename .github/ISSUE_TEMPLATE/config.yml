@@ -1,0 +1,5 @@
+blank_issues_enabled: true
+contact_links:
+  - name: General Discussion
+    url: https://github.com/yaotingwangofficial/Awesome-MCoT/discussions
+    about: Open-ended questions, taxonomy debates, or follow-ups on the survey
