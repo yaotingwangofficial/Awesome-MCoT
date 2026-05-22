@@ -192,7 +192,28 @@ To fill this gap, we present [**_the first systematic survey of MCoT reasoning_*
 # ✨ MCoT Over Various Modalities
 ### MCoT Reasoning Over Image
 
+
 <details open>
+<summary><b>2026</b> &nbsp;·&nbsp; 15 papers</summary>
+
+- [**ImgCoT: Compressing Long Chain of Thought into Compact Visual Tokens for Efficient Multimodal Reasoning**](https://arxiv.org/abs/2601.22730) [![Paper](https://img.shields.io/badge/arXiv-b22222)](https://arxiv.org/abs/2601.22730) <!-- 01-26 -->
+- [**Do MLLMs Really See It: Reinforcing Visual Attention in Multimodal LLMs**](https://arxiv.org/abs/2602.08241) [![Paper](https://img.shields.io/badge/arXiv-b22222)](https://arxiv.org/abs/2602.08241) <!-- 02-26 -->
+- [**MIRROR: Multimodal Iterative Reasoning via Reflection on Visual Regions**](https://arxiv.org/abs/2602.18746) [![Paper](https://img.shields.io/badge/arXiv-b22222)](https://arxiv.org/abs/2602.18746) <!-- 02-26 -->
+- [**Annotation-Free Visual Reasoning for High-Resolution Large Multimodal Models via Reinforcement Learning**](https://arxiv.org/abs/2602.23615) [![Paper](https://img.shields.io/badge/arXiv-b22222)](https://arxiv.org/abs/2602.23615) <!-- 02-26 -->
+- [**Thinking with Images as Continuous Actions: Numerical Visual Chain-of-Thought**](https://arxiv.org/abs/2602.23959) [![Paper](https://img.shields.io/badge/arXiv-b22222)](https://arxiv.org/abs/2602.23959) <!-- 02-26 -->
+- [**PaLMR: Towards Faithful Visual Reasoning via Multimodal Process Alignment**](https://arxiv.org/abs/2603.06652) [![Paper](https://img.shields.io/badge/arXiv-b22222)](https://arxiv.org/abs/2603.06652) <!-- 03-26 -->
+- [**VaLR: Vision-aligned Latent Reasoning for Multi-modal Large Language Model**](https://arxiv.org/abs/2602.04476) [![Paper](https://img.shields.io/badge/arXiv-b22222)](https://arxiv.org/abs/2602.04476) <!-- 02-26 -->
+- [**CrystaL: Spontaneous Emergence of Visual Latents in MLLMs**](https://arxiv.org/abs/2602.20980) [![Paper](https://img.shields.io/badge/arXiv-b22222)](https://arxiv.org/abs/2602.20980) <!-- 02-26 -->
+- **Imagination Helps Visual Reasoning, But Not Yet in Latent Space** <!-- TODO: add arXiv URL --> <!-- 26 -->
+- [**LanteRn: Latent Visual Structured Reasoning**](https://arxiv.org/abs/2603.25629) [![Paper](https://img.shields.io/badge/arXiv-b22222)](https://arxiv.org/abs/2603.25629) <!-- 03-26 -->
+- [**Decompose, Look, and Reason: Reinforced Latent Reasoning for VLMs**](https://arxiv.org/abs/2604.07518) [![Paper](https://img.shields.io/badge/arXiv-b22222)](https://arxiv.org/abs/2604.07518) <!-- 04-26 -->
+- [**Visual Latents Know More Than They Say: Unsilencing Latent Reasoning in MLLMs**](https://arxiv.org/abs/2605.02735) [![Paper](https://img.shields.io/badge/arXiv-b22222)](https://arxiv.org/abs/2605.02735) <!-- 05-26 -->
+- [**Retrieve, Integrate, and Synthesize: Spatial-Semantic Grounded Latent Visual Reasoning**](https://arxiv.org/abs/2605.07106) [![Paper](https://img.shields.io/badge/arXiv-b22222)](https://arxiv.org/abs/2605.07106) <!-- 05-26 -->
+- [**What is Holding Back Latent Visual Reasoning?**](https://arxiv.org/abs/2605.18445) [![Paper](https://img.shields.io/badge/arXiv-b22222)](https://arxiv.org/abs/2605.18445) <!-- 05-26 -->
+- [**Reinforced Attention Learning**](https://arxiv.org/abs/2602.04884) [![Paper](https://img.shields.io/badge/arXiv-b22222)](https://arxiv.org/abs/2602.04884) <!-- 02-26 -->
+
+</details>
+<details>
 <summary><b>2025</b> &nbsp;·&nbsp; 25 papers</summary>
 
 - [**Imagine while Reasoning in Space: Multimodal Visualization-of-Thought**](https://arxiv.org/abs/2501.07542) [![Paper](https://img.shields.io/badge/arXiv-b22222)](https://arxiv.org/abs/2501.07542) <!-- 01-25 -->
@@ -358,7 +379,15 @@ To fill this gap, we present [**_the first systematic survey of MCoT reasoning_*
 
 ### MCoT Reasoning Over Video
 
+
 <details open>
+<summary><b>2026</b> &nbsp;·&nbsp; 2 papers</summary>
+
+- [**Think-as-You-See: Streaming Chain-of-Thought Reasoning for Large Vision-Language Models**](https://arxiv.org/abs/2603.02872) [![Paper](https://img.shields.io/badge/arXiv-b22222)](https://arxiv.org/abs/2603.02872) <!-- 03-26 -->
+- [**Reinforcing Video Reasoning with Focused Thinking**](https://arxiv.org/abs/2505.24718) [![Paper](https://img.shields.io/badge/arXiv-b22222)](https://arxiv.org/abs/2505.24718) <!-- 01-26 -->
+
+</details>
+<details>
 <summary><b>2025</b> &nbsp;·&nbsp; 4 papers</summary>
 
 
@@ -530,7 +559,14 @@ To fill this gap, we present [**_the first systematic survey of MCoT reasoning_*
 </details>
 
 ### Cross-modal CoT Reasoning
+
 <details open>
+<summary><b>2026</b> &nbsp;·&nbsp; 1 papers</summary>
+
+- [**UniVLR: Unifying Text and Vision in Visual Latent Reasoning for Multimodal LLMs**](https://arxiv.org/abs/2605.11856) [![Paper](https://img.shields.io/badge/arXiv-b22222)](https://arxiv.org/abs/2605.11856) <!-- 05-26 -->
+
+</details>
+<details>
 <summary><b>2025</b> &nbsp;·&nbsp; 1 papers</summary>
 
 - [**R1-Omni: Explainable Omni-Multimodal Emotion Recognition with Reinforcement Learning**](https://arxiv.org/abs/2503.05379) [![Paper](https://img.shields.io/badge/arXiv-b22222)](https://arxiv.org/abs/2503.05379) [![Star](https://img.shields.io/github/stars/HumanMLLM/R1-Omni.svg?style=social&label=Star)](https://github.com/HumanMLLM/R1-Omni)   <!-- 03-25 -->
@@ -699,6 +735,11 @@ The reasoning processes adopt either text-only or multimodal rationales.
 
 - [**CoT-VLA: Visual Chain-of-Thought Reasoning for Vision-Language-Action Models**](https://arxiv.org/abs/2503.22020) [![Paper](https://img.shields.io/badge/arXiv-b22222)](https://arxiv.org/abs/2503.22020) <!-- 02-25 -->
 
+- [**FantasyVLN: Unified Multimodal Chain-of-Thought Reasoning for Vision-Language Navigation**](https://arxiv.org/abs/2601.13976) [![Paper](https://img.shields.io/badge/arXiv-b22222)](https://arxiv.org/abs/2601.13976) <!-- 01-26 -->
+
+- [**AgentVLN: Towards Agentic Vision-and-Language Navigation**](https://arxiv.org/abs/2603.17670) [![Paper](https://img.shields.io/badge/arXiv-b22222)](https://arxiv.org/abs/2603.17670) <!-- 03-26 -->
+
+
 ## Agentic System
 
 - [**SmartAgent: Chain-of-User-Thought for Embodied Personalized Agent in Cyber World**](https://arxiv.org/abs/2412.07472) ![Paper](https://img.shields.io/badge/arxiv-b22222) [![Star](https://img.shields.io/github/stars/tsinghua-fib-lab/SmartAgent.svg?style=social&label=Star)](https://github.com/tsinghua-fib-lab/SmartAgent) <!-- 02-25 -->
@@ -761,6 +802,9 @@ The reasoning processes adopt either text-only or multimodal rationales.
 
 - [**S-Chain: Structured Visual Chain-of-Thought For Medicine**](https://arxiv.org/abs/2510.22728) [![Paper](https://img.shields.io/badge/arXiv-b22222)](https://arxiv.org/abs/2510.22728) <!-- 10-25 -->
 
+- [**M3CoTBench: Benchmark Chain-of-Thought of MLLMs in Medical Image Understanding**](https://arxiv.org/abs/2601.08758) [![Paper](https://img.shields.io/badge/arXiv-b22222)](https://arxiv.org/abs/2601.08758) <!-- 01-26 -->
+
+- **TumorChain: Interleaved Multimodal Chain-of-Thought Reasoning for Traceable Cancer Diagnosis** <!-- TODO: add arXiv URL --> <!-- 26 -->
 
 
 ## Social and Human
@@ -791,6 +835,14 @@ The reasoning processes adopt either text-only or multimodal rationales.
 - [**3D-PreMise: Can Large Language Models Generate 3D Shapes with Sharp Features and Parametric Control?**](https://arxiv.org/abs/2401.06437) [![Paper](https://img.shields.io/badge/arXiv-b22222)](https://arxiv.org/abs/2401.06437)    <!-- 02-24 --> 
 
 ---
+
+- [**Spatial Chain-of-Thought: Bridging Understanding and Generation Models for Spatial Reasoning**](https://arxiv.org/abs/2602.11980) [![Paper](https://img.shields.io/badge/arXiv-b22222)](https://arxiv.org/abs/2602.11980) <!-- 02-26 -->
+
+- [**EndoCoT: Scaling Endogenous Chain-of-Thought Reasoning in Diffusion Models**](https://arxiv.org/abs/2603.12252) [![Paper](https://img.shields.io/badge/arXiv-b22222)](https://arxiv.org/abs/2603.12252) <!-- 03-26 -->
+
+- **Thinking Diffusion: Penalize and Guide Visual-Grounded Reasoning in Diffusion Multimodal LLMs** <!-- TODO: add arXiv URL --> <!-- 26 -->
+
+
 # 🚀 Useful Links
 ### Survey
 - [From System 1 to System 2: A Survey of Reasoning Large Language Models](https://arxiv.org/abs/2502.17419)
