@@ -195,6 +195,18 @@ To fill this gap, we present [**_the first systematic survey of MCoT reasoning_*
 <details open>
 <summary><b>2025</b> &nbsp;·&nbsp; 25 papers</summary>
 
+- [**Imagine while Reasoning in Space: Multimodal Visualization-of-Thought**](https://arxiv.org/abs/2501.07542) [![Paper](https://img.shields.io/badge/arXiv-b22222)](https://arxiv.org/abs/2501.07542) <!-- 01-25 -->
+
+- [**Visual Thoughts: A Unified Perspective of Understanding Multimodal Chain-of-Thought**](https://arxiv.org/abs/2505.15510) [![Paper](https://img.shields.io/badge/arXiv-b22222)](https://arxiv.org/abs/2505.15510) <!-- 05-25 -->
+
+- [**Multimodal Chain of Continuous Thought for Latent-Space Reasoning in Vision-Language Models**](https://arxiv.org/abs/2508.12587) [![Paper](https://img.shields.io/badge/arXiv-b22222)](https://arxiv.org/abs/2508.12587) <!-- 08-25 -->
+
+- [**MM-Verify: Enhancing Multimodal Reasoning with Chain-of-Thought Verification**](https://arxiv.org/abs/2502.13383) [![Paper](https://img.shields.io/badge/arXiv-b22222)](https://arxiv.org/abs/2502.13383) <!-- 02-25 -->
+
+- [**Openvlthinker: An early exploration to complex vision-language reasoning via iterative self-improvement**](https://arxiv.org/abs/2503.17352) [![Paper](https://img.shields.io/badge/arXiv-b22222)](https://arxiv.org/abs/2503.17352) <!-- 03-25 -->
+
+- [**LaV-CoT: Language-Aware Visual CoT with Multi-Aspect Reward Optimization for Real-World Multilingual VQA**](https://arxiv.org/abs/2509.10026) [![Paper](https://img.shields.io/badge/arXiv-b22222)](https://arxiv.org/abs/2509.10026) <!-- 09-25 -->
+
 - [**Embodied-Reasoner: Synergizing Visual Search, Reasoning, and Action for Embodied Interactive Tasks**](https://arxiv.org/abs/2503.21696) [![Paper](https://img.shields.io/badge/arXiv-b22222)](https://arxiv.org/abs/2503.21696) [![Star](https://img.shields.io/github/stars/zwq2018/embodied_reasoner.svg?style=social&label=Star)](https://github.com/zwq2018/embodied_reasoner) [![Star](https://img.shields.io/badge/HuggingFace-FFD700)](https://huggingface.co/datasets/zwq2018/embodied_reasoner)<!-- 03-25 -->
 
 - [**VLM-R1**](https://github.com/om-ai-lab/VLM-R1) [![Star](https://img.shields.io/github/stars/om-ai-lab/VLM-R1.svg?style=social&label=Star)](https://github.com/om-ai-lab/VLM-R1)
@@ -249,6 +261,8 @@ To fill this gap, we present [**_the first systematic survey of MCoT reasoning_*
 
 <details>
 <summary><b>2024</b> &nbsp;·&nbsp; 30 papers</summary>
+
+- [**Mind's Eye of LLMs: Visualization-of-Thought Elicits Spatial Reasoning in Large Language Models**](https://arxiv.org/abs/2404.03622) [![Paper](https://img.shields.io/badge/arXiv-b22222)](https://arxiv.org/abs/2404.03622) <!-- 04-24 -->
 
 - [**Mulberry: Empowering MLLM with o1-like Reasoning and Reflection via Collective Monte Carlo Tree Search**](https://arxiv.org/abs/2412.18319) [![Paper](https://img.shields.io/badge/arXiv-b22222)](https://arxiv.org/abs/2412.18319)  [![Star](https://img.shields.io/github/stars/HJYao00/Mulberry.svg?style=social&label=Star)](https://github.com/HJYao00/Mulberry) <!-- 12-24 -->
 
@@ -347,6 +361,13 @@ To fill this gap, we present [**_the first systematic survey of MCoT reasoning_*
 <details open>
 <summary><b>2025</b> &nbsp;·&nbsp; 4 papers</summary>
 
+
+- [**CoS: Chain-of-Shot Prompting for Long Video Understanding**](https://arxiv.org/abs/2502.06428) [![Paper](https://img.shields.io/badge/arXiv-b22222)](https://arxiv.org/abs/2502.06428) <!-- 02-25 -->
+
+- [**Videochat-r1: Enhancing spatio-temporal perception via reinforcement fine-tuning**](https://arxiv.org/abs/2504.06958) [![Paper](https://img.shields.io/badge/arXiv-b22222)](https://arxiv.org/abs/2504.06958) <!-- 04-25 -->
+
+- [**FrameMind: Frame-Interleaved Video Reasoning via Reinforcement Learning**](https://arxiv.org/abs/2509.24008) [![Paper](https://img.shields.io/badge/arXiv-b22222)](https://arxiv.org/abs/2509.24008) <!-- 09-25 -->
+
 - [**Video-R1: Towards Super Reasoning Ability in Video Understanding**](https://github.com/tulerfeng/Video-R1) [![Star](https://img.shields.io/github/stars/tulerfeng/Video-R1.svg?style=social&label=Star)](https://github.com/tulerfeng/Video-R1)
 
 - [**CoS: Chain-of-Shot Prompting for Long Video Understanding**](https://arxiv.org/abs/2502.06428) [![Paper](https://img.shields.io/badge/arXiv-b22222)](https://arxiv.org/abs/2502.06428) [![Star](https://img.shields.io/github/stars/lwpyh/CoS_codes.svg?style=social&label=Star)](https://github.com/lwpyh/CoS_codes)   <!-- 02-25 -->
@@ -359,6 +380,11 @@ To fill this gap, we present [**_the first systematic survey of MCoT reasoning_*
 
 <details>
 <summary><b>2024</b> &nbsp;·&nbsp; 9 papers</summary>
+
+
+- [**Videocot: A video chain-of-thought dataset with active annotation tool**](https://arxiv.org/abs/2407.05355) [![Paper](https://img.shields.io/badge/arXiv-b22222)](https://arxiv.org/abs/2407.05355) <!-- 07-24 -->
+
+- [**VideoEspresso: A Large-Scale Chain-of-Thought Dataset for Fine-Grained Video Reasoning via Core Frame Selection**](https://arxiv.org/abs/2411.14794) [![Paper](https://img.shields.io/badge/arXiv-b22222)](https://arxiv.org/abs/2411.14794) <!-- 11-24 -->
 
 - [**Analyzing Key Factors Influencing Emotion Prediction Performance of VLLMs in Conversational Contexts**](https://aclanthology.org/2024.emnlp-main.331.pdf) ![Paper](https://img.shields.io/badge/EMNLP-191970)    <!-- 11-24 -->
 
@@ -383,6 +409,9 @@ To fill this gap, we present [**_the first systematic survey of MCoT reasoning_*
 <details>
 <summary><b>2023</b> &nbsp;·&nbsp; 2 papers</summary>
 
+
+- [**Let's Think Frame by Frame with VIP: A Video Infilling and Prediction Dataset for Evaluating Video Chain-of-Thought**](https://arxiv.org/abs/2305.13903) [![Paper](https://img.shields.io/badge/arXiv-b22222)](https://arxiv.org/abs/2305.13903) <!-- 05-23 -->
+
 - [**Let's Think Frame by Frame with VIP: A Video Infilling and Prediction Dataset for Evaluating Video Chain-of-Thought**](https://arxiv.org/abs/2305.13903) ![Paper](https://img.shields.io/badge/EMNLP-191970) [![Star](https://img.shields.io/github/stars/vaishnaviHimakunthala/VIP.svg?style=social&label=Star)](https://github.com/vaishnaviHimakunthala/VIP)  <!-- 11-23 -->
 
 - [**IntentQA: Context-aware Video Intent Reasoning**](https://openaccess.thecvf.com/content/ICCV2023/papers/Li_IntentQA_Context-aware_Video_Intent_Reasoning_ICCV_2023_paper.pdf) ![Paper](https://img.shields.io/badge/ICCV-00CED1) [![Star](https://img.shields.io/github/stars/JoseponLee/IntentQA.svg?style=social&label=Star)](https://github.com/JoseponLee/IntentQA)  <!-- 01-23 -->
@@ -393,7 +422,9 @@ To fill this gap, we present [**_the first systematic survey of MCoT reasoning_*
 
 ### MCoT Reasoning Over 3D
 <details open>
-<summary><b>2025</b> &nbsp;·&nbsp; 2 papers</summary>
+<summary><b>2025</b> &nbsp;·&nbsp; 3 papers</summary>
+
+- [**3D-R1: Enhancing Reasoning in 3D VLMs for Unified Scene Understanding**](https://arxiv.org/abs/2507.23478) [![Paper](https://img.shields.io/badge/arXiv-b22222)](https://arxiv.org/abs/2507.23478) <!-- 07-25 -->
 
 - [**SceneCOT: Eliciting Grounded Chain-of-Thought Reasoning in 3D Scenes**](https://www.arxiv.org/abs/2510.16714) [![Paper](https://img.shields.io/badge/arXiv-b22222)](https://www.arxiv.org/abs/2510.16714)[![Star](https://img.shields.io/github/stars/SceneCOT.svg?style=social&label=Star)](https://github.com/SceneCOT/scenecot)     <!-- 10-19 --> 
 - [**Integrating Chain-of-Thought for Multimodal Alignment: A Study on 3D Vision-Language Learning**](https://arxiv.org/as/2503.06232) [![Paper](https://img.shields.io/badge/arXiv-b22222)](https://arxiv.org/as/2503.06232)    <!-- 03-25 --> 
@@ -414,6 +445,7 @@ To fill this gap, we present [**_the first systematic survey of MCoT reasoning_*
 <details>
 <summary><b>2023</b> &nbsp;·&nbsp; 1 papers</summary>
 
+
 - [**Gen2Sim: Scaling up Robot Learning in Simulation with Generative Models**](https://arxiv.org/abs/2310.18308) ![Paper](https://img.shields.io/badge/ICRA-000080) [![Star](https://img.shields.io/github/stars/pushkalkatara/Gen2Sim.svg?style=social&label=Star)](https://github.com/pushkalkatara/Gen2Sim)  
 
  
@@ -425,6 +457,11 @@ To fill this gap, we present [**_the first systematic survey of MCoT reasoning_*
 ### MCoT Reasoning Over Audio and Speech
 <details open>
 <summary><b>2025</b> &nbsp;·&nbsp; 6 papers</summary>
+
+
+- **ThinkSound: Chain-of-Thought Reasoning in Multimodal Large Language Models for Audio Generation and Editing** <!-- TODO: add arXiv URL --> <!-- 01-25 -->
+
+- **Audio-Thinker: Guiding Audio Language Model When and How to Think via Reinforcement Learning** <!-- TODO: add arXiv URL --> <!-- 05-25 -->
 
 - [**EchoInk-R1**](https://arxiv.org/abs/2505.04623) [![Paper](https://img.shields.io/badge/arXiv-b22222)](https://arxiv.org/abs/2505.04623) [![Star](https://img.shields.io/github/stars/HarryHsing/EchoInk.svg?style=social&label=Star)](https://github.com/HarryHsing/EchoInk) <!-- 03-25 -->  
 
@@ -438,6 +475,8 @@ To fill this gap, we present [**_the first systematic survey of MCoT reasoning_*
 
 - [**Leveraging Chain of Thought towards Empathetic Spoken Dialogue without Corresponding Question-Answering Data**](https://arxiv.org/abs/2501.10937) ![Paper](https://img.shields.io/badge/ICASSP-FFC0CB) <!-- 01-25 -->  
 
+- [**Thinking with Sound: Audio Chain-of-Thought Enables Multimodal Reasoning in Large Audio-Language Models**](https://arxiv.org/abs/2509.21749) [![Paper](https://img.shields.io/badge/arXiv-b22222)](https://arxiv.org/abs/2509.21749) <!-- 09-25 -->
+
 </details>
 
 <details>
@@ -449,6 +488,15 @@ To fill this gap, we present [**_the first systematic survey of MCoT reasoning_*
 
 
 
+
+</details>
+
+<details>
+<summary><b>2023</b> &nbsp;·&nbsp; 2 papers</summary>
+
+- [**Speechgpt: Empowering large language models with intrinsic cross-modal conversational abilities**](https://arxiv.org/abs/2305.11000) [![Paper](https://img.shields.io/badge/arXiv-b22222)](https://arxiv.org/abs/2305.11000) <!-- 05-23 -->
+
+- [**Audiopalm: A large language model that can speak and listen**](https://arxiv.org/abs/2306.12925) [![Paper](https://img.shields.io/badge/arXiv-b22222)](https://arxiv.org/abs/2306.12925) <!-- 06-23 -->
 
 </details>
 
@@ -649,8 +697,7 @@ The reasoning processes adopt either text-only or multimodal rationales.
 
 - [**EmbodiedGPT: Vision-Language Pre-Training via Embodied Chain of Thought**](https://arxiv.org/abs/2305.15021) ![Paper](https://img.shields.io/badge/NIPS-CD5C5C) [![Star](https://img.shields.io/github/stars/EmbodiedGPT/EmbodiedGPT_Pytorch.svg?style=social&label=Star)](https://github.com/EmbodiedGPT/EmbodiedGPT_Pytorch) <!-- 09-23 -->
 
-
-
+- [**CoT-VLA: Visual Chain-of-Thought Reasoning for Vision-Language-Action Models**](https://arxiv.org/abs/2503.22020) [![Paper](https://img.shields.io/badge/arXiv-b22222)](https://arxiv.org/abs/2503.22020) <!-- 02-25 -->
 
 ## Agentic System
 
@@ -670,6 +717,8 @@ The reasoning processes adopt either text-only or multimodal rationales.
 
 - [**Web-CogReasoner: Towards Knowledge-Induced Cognitive Reasoning for Web Agents**](https://gnonymous.github.io/Web-CogReasoner) ![Paper](https://img.shields.io/badge/arxiv-b22222) [![Star](https://img.shields.io/github/stars/gnonymous/Web-CogReasoner.svg?style=social&label=Star)](https://github.com/gnonymous/Web-CogReasoner)
 
+- [**Socratic Questioning: Learn to Self-guide Multimodal Reasoning in the Wild**](https://arxiv.org/abs/2501.02964) [![Paper](https://img.shields.io/badge/arXiv-b22222)](https://arxiv.org/abs/2501.02964) <!-- 02-25 -->
+
 
 ## Autonomous Driving
 
@@ -687,6 +736,12 @@ The reasoning processes adopt either text-only or multimodal rationales.
 
 - [**FutureSightDrive: Thinking Visually with Spatio-Temporal CoT for Autonomous Driving**](https://github.com/MIV-XJTU/FSDrive)
 
+- [**CoT-Drive: Efficient Motion Forecasting for Autonomous Driving with LLMs and Chain-of-Thought Prompting**](https://arxiv.org/abs/2503.07234) [![Paper](https://img.shields.io/badge/arXiv-b22222)](https://arxiv.org/abs/2503.07234) <!-- 01-25 -->
+
+- [**DriveLMM-o1: A Step-by-Step Reasoning Dataset and Large Multimodal Model for Driving Scenario Understanding**](https://arxiv.org/abs/2503.10621) [![Paper](https://img.shields.io/badge/arXiv-b22222)](https://arxiv.org/abs/2503.10621) <!-- 03-25 -->
+
+- [**DriveAgent-R1: Advancing VLM-based Autonomous Driving with Active Perception and Hybrid Thinking**](https://arxiv.org/abs/2507.20879) [![Paper](https://img.shields.io/badge/arXiv-b22222)](https://arxiv.org/abs/2507.20879) <!-- 07-25 -->
+
 
 ## Medical and Healthcare
 
@@ -702,6 +757,10 @@ The reasoning processes adopt either text-only or multimodal rationales.
 
 - [**Open Set Video HOI detection from Action-centric Chain-of-Look Prompting**](https://openaccess.thecvf.com/content/ICCV2023/papers/Xi_Open_Set_Video_HOI_detection_from_Action-Centric_Chain-of-Look_Prompting_ICCV_2023_paper.pdf) ![Paper](https://img.shields.io/badge/ICCV-00CED1) <!-- 02-23 -->
 
+- **VILA-M3: Enhancing Vision-Language Models with Medical Expert Knowledge** <!-- TODO: add arXiv URL --> <!-- 01-25 -->
+
+- [**S-Chain: Structured Visual Chain-of-Thought For Medicine**](https://arxiv.org/abs/2510.22728) [![Paper](https://img.shields.io/badge/arXiv-b22222)](https://arxiv.org/abs/2510.22728) <!-- 10-25 -->
+
 
 
 ## Social and Human
@@ -715,6 +774,8 @@ The reasoning processes adopt either text-only or multimodal rationales.
 - [**Chain of Empathy: Enhancing Empathetic Response of Large Language Models Based on Psychotherapy Models**](https://arxiv.org/abs/2311.04915) ![Paper](https://img.shields.io/badge/arxiv-b22222)  <!-- 09-24 -->
 
 - [**Chain-of-Thought Prompting for Demographic Inference with Large Multimodal Models**](https://arxiv.org/abs/2405.15687) ![Paper](https://img.shields.io/badge/arxiv-b22222)  <!-- 09-24 -->
+
+- **PanoSent: A Panoptic Sextuple Extraction Benchmark for Multimodal Conversational Aspect-based Sentiment Analysis** <!-- TODO: add arXiv URL --> <!-- 06-24 -->
 
 
 ## Multimodal Generation
