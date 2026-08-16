@@ -868,6 +868,6 @@ The reasoning processes adopt either text-only or multimodal rationales.
 ---
 # ⭐️ Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=yaotingwangofficial/Awesome-MCoT&type=Date)](https://star-history.com/#yaotingwangofficial/Awesome-MCoT&Date)
+[![Star History Chart](https://star-history.dera.page/svg?repos=yaotingwangofficial/Awesome-MCoT&type=Date)](https://star-history.dera.page/#yaotingwangofficial/Awesome-MCoT&Date)
 
 
