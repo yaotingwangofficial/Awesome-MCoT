@@ -381,7 +381,9 @@ To fill this gap, we present [**_the first systematic survey of MCoT reasoning_*
 
 
 <details open>
-<summary><b>2026</b> &nbsp;·&nbsp; 2 papers</summary>
+<summary><b>2026</b> &nbsp;·&nbsp; 3 papers</summary>
+
+- [**Spatial-Interactor: Learning Spatial Reasoning through Interaction with the Observable Physical World**](https://arxiv.org/abs/2609.23038) [![Paper](https://img.shields.io/badge/arXiv-b22222)](https://arxiv.org/abs/2609.23038) [![Star](https://img.shields.io/github/stars/ZJU-OmniAI/Spatial-Interactor.svg?style=social&label=Star)](https://github.com/ZJU-OmniAI/Spatial-Interactor) <!-- 09-26 -->
 
 - [**Think-as-You-See: Streaming Chain-of-Thought Reasoning for Large Vision-Language Models**](https://arxiv.org/abs/2603.02872) [![Paper](https://img.shields.io/badge/arXiv-b22222)](https://arxiv.org/abs/2603.02872) <!-- 03-26 -->
 - [**Reinforcing Video Reasoning with Focused Thinking**](https://arxiv.org/abs/2505.24718) [![Paper](https://img.shields.io/badge/arXiv-b22222)](https://arxiv.org/abs/2505.24718) <!-- 01-26 -->
