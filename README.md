@@ -381,7 +381,9 @@ To fill this gap, we present [**_the first systematic survey of MCoT reasoning_*
 
 
 <details open>
-<summary><b>2026</b> &nbsp;·&nbsp; 3 papers</summary>
+<summary><b>2026</b> &nbsp;·&nbsp; 4 papers</summary>
+
+- [**Video-o3: Native Interleaved Clue Seeking for Long Video Multi-Hop Reasoning**](https://arxiv.org/abs/2601.23224) [![Paper](https://img.shields.io/badge/ICML-FF7F50)](https://arxiv.org/abs/2601.23224) [![Star](https://img.shields.io/github/stars/MCG-NJU/Video-o3.svg?style=social&label=Star)](https://github.com/MCG-NJU/Video-o3) <!-- 01-26 -->
 
 - [**Spatial-Interactor: Learning Spatial Reasoning through Interaction with the Observable Physical World**](https://arxiv.org/abs/2609.23038) [![Paper](https://img.shields.io/badge/arXiv-b22222)](https://arxiv.org/abs/2609.23038) [![Star](https://img.shields.io/github/stars/ZJU-OmniAI/Spatial-Interactor.svg?style=social&label=Star)](https://github.com/ZJU-OmniAI/Spatial-Interactor) <!-- 09-26 -->
 
