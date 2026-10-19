@@ -194,7 +194,7 @@ To fill this gap, we present [**_the first systematic survey of MCoT reasoning_*
 
 
 <details open>
-<summary><b>2026</b> &nbsp;·&nbsp; 15 papers</summary>
+<summary><b>2026</b> &nbsp;·&nbsp; 16 papers</summary>
 
 - [**ImgCoT: Compressing Long Chain of Thought into Compact Visual Tokens for Efficient Multimodal Reasoning**](https://arxiv.org/abs/2601.22730) [![Paper](https://img.shields.io/badge/arXiv-b22222)](https://arxiv.org/abs/2601.22730) <!-- 01-26 -->
 - [**Do MLLMs Really See It: Reinforcing Visual Attention in Multimodal LLMs**](https://arxiv.org/abs/2602.08241) [![Paper](https://img.shields.io/badge/arXiv-b22222)](https://arxiv.org/abs/2602.08241) <!-- 02-26 -->
@@ -211,6 +211,7 @@ To fill this gap, we present [**_the first systematic survey of MCoT reasoning_*
 - [**Retrieve, Integrate, and Synthesize: Spatial-Semantic Grounded Latent Visual Reasoning**](https://arxiv.org/abs/2605.07106) [![Paper](https://img.shields.io/badge/arXiv-b22222)](https://arxiv.org/abs/2605.07106) <!-- 05-26 -->
 - [**What is Holding Back Latent Visual Reasoning?**](https://arxiv.org/abs/2605.18445) [![Paper](https://img.shields.io/badge/arXiv-b22222)](https://arxiv.org/abs/2605.18445) <!-- 05-26 -->
 - [**Reinforced Attention Learning**](https://arxiv.org/abs/2602.04884) [![Paper](https://img.shields.io/badge/arXiv-b22222)](https://arxiv.org/abs/2602.04884) <!-- 02-26 -->
+- [**Reasoning with Image Generation**](https://arxiv.org/abs/2609.16409) [![Paper](https://img.shields.io/badge/arXiv-b22222)](https://arxiv.org/abs/2609.16409) [![Project](https://img.shields.io/badge/Project-Page-blue)](https://hector.gr/reimagin/) <!-- 09-26 -->
 
 </details>
 <details>
